@@ -1,0 +1,783 @@
+Patient_Name,Unique_ID,Age,Gender,Doctor_ID,Diagnosis,Department,Branch,Stay_Days,Total_Bill,Month_Name,Year,Final_Outcome
+Sara Gupta,17,60,Male,126,HEART DISEASE, Cardiology , North Hospital ,3,183798, MAY ,2025,discharged
+Aarav Joshi,545,63,FEMALE,23,, EMERGENCY ,,-39,115159, August ,-2025,Discharged
+AARAV ALI,499,24,FEMALE,283, Arthritis ,Orthopedics, West Medical Center ,16,15523,FEBRUARY,2025,Transferred
+Diya Singh,196,88,MALE,7,,Emergency,North Hospital,28,77922, January ,2025, discharged 
+ Diya Sharma ,-574,12,Female,282, LEUKEMIA ,Oncology, South Hospital ,13,72719, April ,,Discharged
+ ISHAAN MEHTA ,269,57,FEMALE,46,Hypertension, Cardiology ,Central Clinic,13,48243,July,2025,discharged
+ SARA KHAN ,498,84,Female,192,Arthritis,Orthopedics,West Medical Center,11,52624, AUGUST ,2025,Discharged
+Aarav Khan,388,53,,93,General Checkup,Emergency,City Care Branch,6,138962,August,-2024,discharged
+AARAV SINGH,188,15,Male,59,Fever, Emergency ,NORTH HOSPITAL,13,97209,MARCH,2025,Discharged
+Riya Khan,699,10,Female,20,Leukemia,ONCOLOGY,NORTH HOSPITAL,11,162243,JANUARY,-2024,Discharged
+ Meera Mehta ,122,9,Male,274, MIGRAINE ,Neurology,CENTRAL CLINIC,8,8378, MAY ,2024,Discharged
+Diya Mehta,429,30,Male,302, FATIGUE , Emergency , East Clinic ,26,124756, April ,2024,Discharged
+Aarav Khan,205,61,Female,355,Fatigue,GENERAL SURGERY,Central Clinic,8,50412,August,2024,Discharged
+ Diya Patel ,-69,52,Male,164,Back Pain, ORTHOPEDICS ,CITY CARE BRANCH,14,30769, July ,2025,Discharged
+ Ishaan Verma ,80,3, Male ,153,Heart Disease,Cardiology,NORTH HOSPITAL,13,47762,April,2025,Discharged
+ Sara Singh ,673,71,Male,35,Tumor,ONCOLOGY,North Hospital,20,120180, MAY ,2024,Discharged
+Riya Khan,271,49, Female ,192,Fatigue,,Central Clinic,27,101592.5,May,2024,Discharged
+ANAYA JOSHI,146,40,FEMALE,192,EPILEPSY, NEUROLOGY ,North Hospital,6,194385,MAY,2025,Discharged
+Riya Khan,811,71,Female,146,Back Pain,Orthopedics,City Care Branch,7,174611,SEPTEMBER,2025,TRANSFERRED
+ Riya Sharma ,662,41,FEMALE,3072,FATIGUE,Emergency,West Medical Center,4,107318,SEPTEMBER,2025,Discharged
+Ishaan Yadav,411,39,FEMALE,107,STROKE,Neurology, City Care Branch ,12,121843,September,2025,Discharged
+ Aarav Gupta ,50,64,Female,321, Cancer Screening ,Oncology,South Hospital,25,-95612,July,-2024,Discharged
+ Riya Mehta ,179,23,Male,3072, Fatigue ,Orthopedics,CITY CARE BRANCH,5,199779,January,2025, discharged 
+Meera Yadav,413,61,Female,64, Fracture ,Orthopedics, North Hospital ,18,168108,July,2024,Discharged
+Anaya Khan,231,46,Female,243, Epilepsy ,NEUROLOGY, City Care Branch ,22,17847, November ,2025,Discharged
+Diya Singh,139,53, Male ,344,FEVER,EMERGENCY,West Medical Center,18,153338, MARCH ,2025,Discharged
+ Kabir Mehta ,651,28, Female ,164,HYPERTENSION,CARDIOLOGY,South Hospital,23,33804,December,2025, discharged 
+Vivaan Singh,566,78,FEMALE,298,Cancer Screening,, City Care Branch ,37,101592.5, September ,,Discharged
+Kabir Mehta,2877,27,MALE,192,Arthritis,ORTHOPEDICS,EAST CLINIC,4,65509,November,2025,
+ VIVAAN GUPTA ,465,49, Female ,,Fever,ONCOLOGY, East Clinic ,37,184477,,2025,
+Kabir Ali,141,38, MALE ,48, Arrhythmia ,Cardiology,WEST MEDICAL CENTER,3,107911,December,2025,Discharged
+ Diya Singh ,7,74, FEMALE ,247, Asthma ,Pediatrics,WEST MEDICAL CENTER,14,126667, AUGUST ,2024,Discharged
+ ADITYA GUPTA ,742,71,Female,11, Migraine ,Neurology,EAST CLINIC,17,22866,June,,
+Ishaan Mehta,621,5,Male,48,ARTHRITIS, ORTHOPEDICS ,Central Clinic,18,68165, December ,2025,Discharged
+ANAYA MEHTA,164,12,Female,231, Cancer Screening ,ONCOLOGY,East Clinic,13,171146, JULY ,2025,Deceased
+Vivaan Khan,681,81, Female ,58, Flu ,Pediatrics,South Hospital,31,1062610, June ,2024,Transferred
+Vivaan Gupta,217,84,Female,4,GENERAL CHECKUP, EMERGENCY , City Care Branch ,,57246,March,2025,Discharged
+ ANAYA JOSHI ,245,83, FEMALE ,312,General Checkup,Emergency,West Medical Center,9,126652, OCTOBER ,2024,Discharged
+Anaya Joshi,780,-3, FEMALE ,372, Cancer Screening , Oncology ,East Clinic,18,101592.5,August,2024,Discharged
+Riya Khan,522,75,Male,154,Flu, Pediatrics ,City Care Branch,15,57314, March ,2024,Discharged
+ Anaya Verma ,549,42, Female ,292,CANCER SCREENING, ONCOLOGY ,West Medical Center,14,111684, October ,-2024,Discharged
+SARA GUPTA,504,4,,297,Back Pain,Orthopedics, City Care Branch ,12,189130,OCTOBER,2024,Discharged
+ MEERA JOSHI ,608,130, MALE ,160,GENERAL CHECKUP,General Surgery, City Care Branch ,27,76801,MARCH,2025, discharged 
+Unknown,749,70, Female ,382, Fever ,Pediatrics, West Medical Center ,30,63602,November,2024,Discharged
+  NULL  ,368,8,  NULL  ,69,  NULL  , NULL , NULL ,15,189215, NULL ,2024,Discharged
+Aditya Mehta,392,87,Male,87,GENERAL CHECKUP,EMERGENCY,SOUTH HOSPITAL,13,90847,August,2024,Discharged
+ANAYA PATEL,581,60,Female,192,Fever,GENERAL SURGERY,EAST CLINIC,32,1451140,OCTOBER,2024, discharged 
+Riya Patel,314,14,Male,101,Fever,Pediatrics,Central Clinic,12,101592.5,JANUARY,-2025,
+Anaya Mehta,227,13,Female,208,ARTHRITIS,Orthopedics,City Care Branch,12,136987,AUGUST,2024,Discharged
+ Aarav Sharma ,607,84, Female ,56,ASTHMA, Pediatrics ,WEST MEDICAL CENTER,25,190624,April,2025, discharged 
+ISHAAN GUPTA,108,24,Female,132,Fever, General Surgery , Central Clinic ,,140762,October,2025,Discharged
+Aarav Singh,462,89,Male,379,Fever,Pediatrics,WEST MEDICAL CENTER,29,-125504,December,2024,Discharged
+Sara Yadav,434,988, Female ,276,Stroke,Neurology, City Care Branch ,15,35781, June ,2025,Discharged
+Vivaan Sharma,16,83,Female,192,, Cardiology , North Hospital ,,-68705, March ,2025,Discharged
+Diya Sharma,276,67, Male ,181,Leukemia, ONCOLOGY ,North Hospital,,138837,May,2025,Discharged
+Sara Ali,766,17,FEMALE,391, FRACTURE ,Orthopedics,WEST MEDICAL CENTER,21,30919,MARCH,2024,Discharged
+  NULL  ,22,30, NULL ,261,  NULL  , NULL , NULL ,9,57531, NULL ,2024,Discharged
+ DIYA SINGH ,-737,1,Male,294,,Cardiology,East Clinic,4,150767, February ,2025,Transferred
+ Vivaan Singh ,353,25,Male,346, Fever ,Emergency,NORTH HOSPITAL,26,145841,SEPTEMBER,2025,Discharged
+Diya Sharma,561,32,Female,192, General Checkup ,Emergency,City Care Branch,33,167650, OCTOBER ,2025,Discharged
+ANAYA SINGH,174,49,Male,86, Fever ,PEDIATRICS,West Medical Center,36,126042,September,2025,Discharged
+ Kabir Verma ,761,7, MALE ,246,Leukemia,Oncology,CITY CARE BRANCH,23,55342, January ,2025,Discharged
+Vivaan Sharma,333,-90, Male ,231,Migraine, NEUROLOGY ,SOUTH HOSPITAL,13,113956,APRIL,2025,
+MEERA MEHTA,741,80,Male,99,Cancer Screening,Oncology, West Medical Center ,8,-137400,AUGUST,-2025,Discharged
+ Diya Khan ,708,19,Female,208, FATIGUE , GENERAL SURGERY ,WEST MEDICAL CENTER,23,131892, October ,2025,Discharged
+Aarav Gupta,76,89,Female,117,, Pediatrics ,EAST CLINIC,8,155804,February,2024, discharged 
+ Ishaan Patel ,147,84,Male,348,Arrhythmia,Cardiology,North Hospital,8,124794,May,2024,
+ANAYA YADAV,259,,Male,184,Asthma,Pediatrics,West Medical Center,6,122559, SEPTEMBER ,2025,Discharged
+ Aditya Patel ,767,20,FEMALE,184,CANCER SCREENING,Oncology,East Clinic,26,91884,APRIL,10125,Discharged
+Unknown,-398,8,Female,102, Fatigue , GENERAL SURGERY , CITY CARE BRANCH ,22,149952,MARCH,2025,Discharged
+ NULL ,3500,26, NULL ,364, NULL , NULL , NULL ,-9,34759, NULL ,2025,discharged
+ Vivaan Ali ,613,42,Female,109,General Checkup,Emergency,Central Clinic,7,21192, October ,2024, discharged 
+ DIYA KHAN ,707,44,Male,92,ARTHRITIS,Orthopedics, East Clinic ,5,57381,September,2025,Discharged
+Anaya Mehta,779,82, Female ,291,Fever,,City Care Branch,40,11348,December,2025,Discharged
+AARAV VERMA,676,75,FEMALE,206,Asthma,Pediatrics,East Clinic,25,30657,February,2024,transferred
+ADITYA KHAN,,52, Female ,156,STROKE,Neurology, West Medical Center ,13,132648,AUGUST,2024,
+Kabir Mehta,667,21, Female ,279,Stroke, NEUROLOGY ,CITY CARE BRANCH,23,10662,May,2025,
+ Diya Singh ,397,29, Male ,84,Hypertension,CARDIOLOGY,East Clinic,11,101592.5, January ,2025,Discharged
+Riya Khan,622,52,Female,112,Tumor,ONCOLOGY,West Medical Center,24,-88885, January ,2024,Discharged
+ Diya Sharma ,815,79,FEMALE,296, Fever , General Surgery ,West Medical Center,26,46762,MARCH,2025,discharged
+,267,403, FEMALE ,311,Fatigue, General Surgery , CITY CARE BRANCH ,70,143552,January,2024, discharged 
+RIYA KHAN,286,86,Male,192,STROKE, Neurology , SOUTH HOSPITAL ,15,72718, NOVEMBER ,2025,Discharged
+Ishaan Khan,173,69,,,Fracture,Orthopedics,North Hospital,11,46229, MAY ,-2025,Discharged
+ Diya Joshi ,385,49,MALE,342, LEUKEMIA , ONCOLOGY ,South Hospital,4,101592.5,December,2025,Discharged
+Vivaan Verma,776,11, Male ,46,FATIGUE,Emergency,City Care Branch,17,101592.5,November,2024,Discharged
+ANAYA VERMA,-750,80,Female,33,FLU,Pediatrics,CITY CARE BRANCH,,, NOVEMBER ,2025, discharged 
+ NULL ,29,90, NULL ,362, NULL , NULL , NULL ,6,142981,  NULL  ,2025,discharged
+Sara Khan,339,67, Female ,153,Heart Disease, Cardiology ,City Care Branch,19,,December,2024,discharged
+DIYA GUPTA,130,54, FEMALE ,271,MIGRAINE, Neurology , South Hospital ,28,61503,SEPTEMBER,2024,Discharged
+KABIR MEHTA,765,88,MALE,308, EPILEPSY ,Neurology, West Medical Center ,15,180490,December,2024,Discharged
+ Aditya Khan ,331,-61,Male,285,,Emergency, North Hospital ,6,62289,DECEMBER,2024,Discharged
+Anaya Ali,157,19,Male,96, ARTHRITIS ,ORTHOPEDICS,South Hospital,4,101592.5,JANUARY,2024,Discharged
+VIVAAN ALI,669,40,Male,124, FEVER , EMERGENCY , North Hospital ,13,-93405,January,2024,Transferred
+Meera Patel,471,36,Female,384,ASTHMA,Pediatrics,City Care Branch,,6733,June,2025,Discharged
+ANAYA VERMA,113,51,Female,128,Arrhythmia,CARDIOLOGY,Central Clinic,15,197973, FEBRUARY ,-2025, discharged 
+Vivaan Sharma,2212,4, Female ,35,Fever, General Surgery ,East Clinic,11,26460,May,2025, discharged 
+Ishaan Khan,677,90,Male,144,Heart Disease,Cardiology,CITY CARE BRANCH,8,188437,FEBRUARY,2024,Transferred
+Riya Gupta,262,76,Male,205,Fatigue,Emergency,South Hospital,12,118827,NOVEMBER,2025,Discharged
+ Anaya Khan ,535,4,Female,389,Arthritis, Orthopedics ,CITY CARE BRANCH,13,100879,December,2024, discharged 
+,302,32,FEMALE,155, Fracture ,Orthopedics,North Hospital,-13,198833,May,2024,Discharged
+ ADITYA KHAN ,-70,50,Female,107,Fever,General Surgery,North Hospital,23,-50219,May,2025,Discharged
+Sara Verma,511,79, MALE ,134,Stroke, Neurology ,WEST MEDICAL CENTER,15,, June ,2025,Transferred
+Vivaan Singh,229,33,Female,34,BACK PAIN,ORTHOPEDICS,Central Clinic,14,93543,November,2024,
+Sara Verma,341,15, Female ,251, ARRHYTHMIA ,,WEST MEDICAL CENTER,10,74606,November,2024,discharged
+MEERA VERMA,694,11,Female,262,Fatigue,Emergency,East Clinic,38,45873,DECEMBER,2025,
+ ISHAAN VERMA ,616,17, Male ,, Heart Disease ,,East Clinic,34,118878,JULY,2025,Discharged
+DIYA VERMA,510,17, FEMALE ,45, Fatigue ,GENERAL SURGERY,CITY CARE BRANCH,24,24534,February,2024,Discharged
+Diya Ali,755,51,MALE,84,Stroke,NEUROLOGY,West Medical Center,8,177276,August,2025,Discharged
+ Ishaan Gupta ,372,3, Female ,192,Fever,Pediatrics,CITY CARE BRANCH,12,125213, May ,2024,discharged
+  NULL  ,489,55, NULL ,192, NULL ,  NULL  , NULL ,8,138696,  NULL  ,2025,Discharged
+ Vivaan Mehta ,536,35,Male,80,Heart Disease,CARDIOLOGY,South Hospital,24,101592.5,May,2024,Discharged
+ Vivaan Patel ,652,25, Female ,363,General Checkup,General Surgery,South Hospital,24,33561,MARCH,2024,Discharged
+ADITYA SHARMA,116,64, Female ,333,Fatigue,Emergency,WEST MEDICAL CENTER,35,199832,January,2024,Discharged
+ NULL ,805,30, NULL ,201, NULL , NULL , NULL ,19,101592.5, NULL ,2025,
+Aarav Khan,508,50,FEMALE,274, Epilepsy , Neurology , East Clinic ,12,155902, April ,2024,Discharged
+Ishaan Patel,226,65,Male,182,FRACTURE, Orthopedics ,Central Clinic,-29,103690,AUGUST,2024, discharged 
+Sara Mehta,356,42,Female,58,Arthritis,Orthopedics,EAST CLINIC,17,34298, June ,2025,Discharged
+ Ishaan Verma ,263,84,FEMALE,306,FEVER, Pediatrics , East Clinic ,-3,136610,February,2025, discharged 
+Aarav Sharma,-580,88,Male,154,General Checkup,GENERAL SURGERY,East Clinic,25,164387,August,2025,discharged
+KABIR ALI,795,49,MALE,98,Fatigue, Emergency ,East Clinic,5,88218,May,2025,Discharged
+DIYA SINGH,15,80,Female,344,Back Pain,ORTHOPEDICS,North Hospital,8,90002, September ,2025,
+Meera Sharma,4494,29, Male ,300,Fatigue,Emergency,South Hospital,12,124307, July ,2024,Discharged
+Sara Ali,454,60,MALE,27, Fracture ,Orthopedics,NORTH HOSPITAL,40,27124,June,2025,Discharged
+ Kabir Ali ,464,79,Female,347,Arrhythmia,Cardiology,Central Clinic,4,106578,JUNE,2024,discharged
+ Anaya Sharma ,467,66,Female,131,Arthritis, ORTHOPEDICS ,South Hospital,4,14015,April,2024,Discharged
+ANAYA ALI,824,,Female,188,Migraine,Neurology, North Hospital ,10,143382, August ,2024,Discharged
+ISHAAN JOSHI,493,5,Male,199, Migraine , Neurology ,East Clinic,13,90762,April,2024,Discharged
+Vivaan Verma,769,83,Female,261,Arthritis,Orthopedics,South Hospital,14,143238,DECEMBER,2025,Discharged
+ Vivaan Patel ,169,19,MALE,164,ASTHMA,Pediatrics,West Medical Center,3,57609,March,2025,Discharged
+RIYA GUPTA,268,14,Male,335,Migraine,Neurology,City Care Branch,14,,SEPTEMBER,2024,discharged
+Riya Gupta,797,24,MALE,363,Arthritis,Orthopedics,CENTRAL CLINIC,,73775, DECEMBER ,2025,discharged
+ DIYA SINGH ,584,57,Female,85,GENERAL CHECKUP,General Surgery,North Hospital,12,-17532,February,2024,
+ Kabir Ali ,370,58,Female,49,GENERAL CHECKUP,Emergency,West Medical Center,24,161285,DECEMBER,,Discharged
+VIVAAN SINGH,64,-72,Female,43,LEUKEMIA,Oncology,South Hospital,16,168107,MARCH,2025,Discharged
+Ishaan Singh,600,43,Female,311,General Checkup,Emergency,North Hospital,17,115563,April,2024,Discharged
+Aditya Singh,745,83,MALE,4, Fever , NEUROLOGY ,East Clinic,18,139769,JULY,,Discharged
+Diya Verma,684,70,Female,369,Back Pain,Orthopedics, East Clinic ,13,98956, October ,2025,Discharged
+MEERA GUPTA,568,69, FEMALE ,192,TUMOR,Oncology,Central Clinic,11,195875,AUGUST,2025,Discharged
+KABIR SHARMA,97,41,MALE,35,Fatigue, EMERGENCY , West Medical Center ,5,187565,October,2024,Discharged
+Ishaan Khan,247,-31, MALE ,60, BACK PAIN , Orthopedics , South Hospital ,5,69759,June,2024,Discharged
+ NULL ,-711,31, NULL ,197, NULL ,  NULL  , NULL ,18,23982,  NULL  ,2024, discharged 
+ Aditya Singh ,249,62,FEMALE,291, Heart Disease ,Cardiology,WEST MEDICAL CENTER,10,101592.5,JANUARY,2024, discharged 
+KABIR GUPTA,641,49, MALE ,351, CANCER SCREENING , Oncology ,CENTRAL CLINIC,6,8380, DECEMBER ,2025,Discharged
+Vivaan Patel,71,-61, FEMALE ,,Stroke, NEUROLOGY ,South Hospital,11,33591, JANUARY ,2024,Discharged
+ Vivaan Singh ,98,79,MALE,227,FRACTURE, ORTHOPEDICS ,WEST MEDICAL CENTER,21,58653,June,2024,Discharged
+ Meera Verma ,355,76,Female,390,Migraine,Neurology,City Care Branch,10,74010,September,2024,
+,3080,56,Male,48,Fracture,ORTHOPEDICS,CENTRAL CLINIC,7,190680,APRIL,2025,Discharged
+Riya Singh,485,37, Male ,177, General Checkup ,GENERAL SURGERY,East Clinic,2,70941,MAY,2024,
+ ISHAAN JOSHI ,529,69,Male,182,FEVER,Pediatrics,NORTH HOSPITAL,37,51926,FEBRUARY,2025,discharged
+ VIVAAN KHAN ,301,75,FEMALE,102,FEVER,Pediatrics,South Hospital,5,96031,November,2025, discharged 
+Ishaan Joshi,730,56,Male,192, Flu , Pediatrics ,East Clinic,32,135082,January,2024, discharged 
+ AARAV VERMA ,151,10,Male,275,MIGRAINE, Neurology , City Care Branch ,22,137505, February ,2024,Transferred
+ Aditya Gupta ,544,845,MALE,239,Heart Disease, CARDIOLOGY , North Hospital ,35,43439,August,2025,Discharged
+Sara Mehta,674,49, MALE ,350,Fever, PEDIATRICS , South Hospital ,12,194456,November,2025,Transferred
+Anaya Joshi,736,39,FEMALE,135,HEART DISEASE,Cardiology, North Hospital ,12,10838,JANUARY,2024,Discharged
+,12,42,FEMALE,352,MIGRAINE,Neurology,WEST MEDICAL CENTER,7,93720,MARCH,2025,Discharged
+ NULL ,460,76, NULL ,192, NULL , NULL ,  NULL  ,36,100741,,2024,Discharged
+Aarav Joshi,706,81,,318,Fever,Pediatrics, North Hospital ,16,114768,September,2024,
+ Ishaan Khan ,560,80,MALE,65,,ORTHOPEDICS, West Medical Center ,17,101803, February ,2025,Discharged
+KABIR KHAN,744,90, FEMALE ,145,General Checkup, General Surgery , CENTRAL CLINIC ,13,69972,November,2024,Discharged
+Aarav Mehta,524,83,Female,145,Cancer Screening, ONCOLOGY , North Hospital ,2,, November ,2025,Discharged
+RIYA KHAN,538,72,MALE,133,FEVER,GENERAL SURGERY,SOUTH HOSPITAL,32,,August,2025,Discharged
+ANAYA PATEL,79,52,Male,144,Fatigue,EMERGENCY,West Medical Center,40,101592.5,June,2025,
+Sara Verma,567,75, Female ,231,Tumor, Oncology , East Clinic ,12,77643,,2024,Discharged
+ ISHAAN SINGH ,403,86,,255,BACK PAIN,Orthopedics,EAST CLINIC,3,184781,MAY,2024,Discharged
+Riya Gupta,33,24,FEMALE,117, BACK PAIN ,Orthopedics,West Medical Center,23,82981,January,, discharged 
+Aditya Mehta,648,36, Female ,192,MIGRAINE,Neurology, North Hospital ,10,108183,April,2025,Discharged
+ Vivaan Ali ,190,80,,204,LEUKEMIA,Oncology,North Hospital,224,37537,January,2024,Discharged
+ ANAYA KHAN ,72,5,Female,209, Fatigue ,EMERGENCY,CITY CARE BRANCH,3,1139320,February,2024,Discharged
+ANAYA ALI,46,70,Male,283,Leukemia, Oncology ,East Clinic,15,73860,December,2025,Discharged
+AARAV ALI,103,49, FEMALE ,104,ARRHYTHMIA,Cardiology,SOUTH HOSPITAL,19,124757, SEPTEMBER ,2025,Discharged
+ Ishaan Singh ,638,26,Male,306,Hypertension, Cardiology , Central Clinic ,18,113615,June,2024,
+Aditya Singh,361,54, Female ,215,,EMERGENCY,West Medical Center,8,142192, JANUARY ,2025,Discharged
+ VIVAAN SHARMA ,-105,49,FEMALE,3, Fatigue ,Orthopedics,City Care Branch,5,49021,June,,Discharged
+Anaya Mehta,348,31,Female,70,Fever,PEDIATRICS,WEST MEDICAL CENTER,14,47724,January,2025,Transferred
+ AARAV ALI ,444,377,MALE,119, GENERAL CHECKUP ,Orthopedics, Central Clinic ,20,186772,JUNE,2025, discharged 
+Meera Singh,51,22,Female,312,Heart Disease,CARDIOLOGY,EAST CLINIC,15,101592.5,APRIL,2025,Discharged
+Diya Khan,526,51,FEMALE,295,Stroke,Neurology,North Hospital,-6,186609,,2024,discharged
+ NULL ,422,60, NULL ,95,  NULL  , NULL , NULL ,11,88398,  NULL  ,2025, discharged 
+ Aarav Verma ,554,3, Male ,304, TUMOR ,Oncology, West Medical Center ,13,46060,OCTOBER,2025,Discharged
+Anaya Yadav,537,85,Female,359,EPILEPSY,Neurology,NORTH HOSPITAL,32,49840, June ,2024, discharged 
+ Sara Khan ,5663,58,MALE,73,LEUKEMIA, Oncology ,EAST CLINIC,12,47352,May,2025,
+Riya Patel,675,42,Female,295,Cancer Screening,Oncology,CITY CARE BRANCH,22,139578, FEBRUARY ,2025,Discharged
+MEERA YADAV,562,36,Female,231,Asthma,Pediatrics,West Medical Center,5,50331,September,2024,Transferred
+ Anaya Khan ,365,55,Male,371,Fracture, Orthopedics ,WEST MEDICAL CENTER,16,70717,,2025,Discharged
+Diya Khan,595,86, Female ,17,General Checkup, Emergency ,Central Clinic,23,, January ,2024,Discharged
+Diya Joshi,483,40,Female,169,Migraine,NEUROLOGY,West Medical Center,15,84280,August,2024,Deceased
+Sara Mehta,313,82,Male,119,Fever, Pediatrics ,South Hospital,5,26273,JUNE,2025,Discharged
+Sara Sharma,712,1,Female,366,Arthritis,Orthopedics,East Clinic,18,50060,DECEMBER,2024,Transferred
+ Meera Singh ,752,637,Male,292,TUMOR,Oncology, EAST CLINIC ,31,192240,JULY,,Discharged
+ Anaya Singh ,818,64,Male,310, Cancer Screening ,Orthopedics,North Hospital,31,43690, October ,2024,Discharged
+RIYA GUPTA,826,80,Male,293,Fever, Neurology ,EAST CLINIC,-17,190485, August ,2024,Discharged
+ NULL ,73,40,  NULL  ,323,  NULL  , NULL , NULL ,32,101305,,2024,Discharged
+,300,57, Male ,192, Asthma ,PEDIATRICS,,5,93556,January,2024,
+ISHAAN PATEL,-212,43, Female ,104,Fever,PEDIATRICS,North Hospital,38,-101592.5,August,2025,Discharged
+Riya Mehta,303,21,FEMALE,89,Tumor,,West Medical Center,25,119133, December ,2025,Discharged
+ISHAAN PATEL,336,51, Female ,168,Fracture,Orthopedics, West Medical Center ,13,187133, July ,2024, discharged 
+Meera Khan,710,52,Female,35,Flu,Pediatrics,SOUTH HOSPITAL,-37,101592.5,DECEMBER,2025,Discharged
+Sara Sharma,771,7,Female,239,Asthma,, West Medical Center ,7,114133, JANUARY ,2025,Discharged
+ANAYA ALI,362,10,Female,20, Fatigue ,EMERGENCY,CENTRAL CLINIC,9,43500,April,10125,Discharged
+Meera Verma,660,52,Female,-162,Fever,General Surgery,East Clinic,15,151775, January ,2025,Discharged
+ Sara Patel ,379,35, Female ,47,Arrhythmia,Cardiology,West Medical Center,3,120372, November ,2024,Discharged
+ Riya Mehta ,23,11,Male,-380,Fracture, Orthopedics ,North Hospital,-18,163981,October,2024,Discharged
+Diya Ali,186,37,Female,293,Fever, Pediatrics , City Care Branch ,6,103196,JULY,2024,Discharged
+Meera Singh,250,65,Female,192, Fever ,Orthopedics, West Medical Center ,5,123018,January,2024,Discharged
+ DIYA PATEL ,6,13,Male,304,,Neurology,City Care Branch,9,89546, April ,2025,Discharged
+ Riya Yadav ,733,37,Male,157,GENERAL CHECKUP,Emergency,South Hospital,154,148622,December,2024,Discharged
+Riya Sharma,42,16,MALE,59,ARTHRITIS,ORTHOPEDICS, East Clinic ,5,76321,November,2024,Discharged
+ Diya Gupta ,478,-72,FEMALE,2,STROKE, ORTHOPEDICS ,South Hospital,21,99385,April,10125,Discharged
+ ANAYA GUPTA ,119,32,Male,171,Back Pain,Orthopedics,SOUTH HOSPITAL,7,194050,December,2025,Discharged
+Aditya Khan,552,,FEMALE,69,FRACTURE, Orthopedics ,Central Clinic,3,91292,April,2025,Discharged
+ISHAAN SINGH,663,58, Male ,,FEVER,Emergency,East Clinic,21,106338,February,2025,Discharged
+ADITYA YADAV,751,-56,Female,100,Heart Disease,Cardiology,SOUTH HOSPITAL,8,165768,December,2025,Discharged
+ DIYA SINGH ,243,72, Female ,309, Fracture ,Orthopedics,Central Clinic,24,40188,AUGUST,2025,Discharged
+Kabir Joshi,721,57,Female,347, Fracture ,ORTHOPEDICS,South Hospital,21,23598, APRIL ,2025,Discharged
+ Meera Mehta ,559,79,FEMALE,192,FEVER,Emergency, NORTH HOSPITAL ,22,191637,JUNE,2025,Discharged
+Meera Yadav,218,936, Male ,329, Fever ,Emergency,East Clinic,23,119531,OCTOBER,,Discharged
+,680,30,Male,816, Epilepsy , NEUROLOGY ,North Hospital,26,125163,February,2024, discharged 
+Anaya Gupta,135,-19,Female,256,Arthritis,,West Medical Center,3,129438,June,2025, discharged 
+Ishaan Ali,182,23,FEMALE,84,Fatigue,General Surgery,Central Clinic,4,176292,APRIL,2024,Discharged
+Aditya Gupta,351,39,Male,253,Fatigue,Emergency, City Care Branch ,18,138236,OCTOBER,2025,Discharged
+Riya Khan,646,23,FEMALE,367, FEVER ,Cardiology, WEST MEDICAL CENTER ,18,155459,,2024,Discharged
+,-525,70,,111, ASTHMA ,Pediatrics,West Medical Center,37,66374,August,2024, discharged 
+,239,83,MALE,387,,Emergency,East Clinic,10,139351,February,-2025,Discharged
+ Meera Khan ,793,41, FEMALE ,115,Migraine,Neurology,South Hospital,17,120499,August,2025,
+,264,18,Female,31,Fracture,Orthopedics,North Hospital,12,71503,,2025,Discharged
+Aditya Singh,774,60, FEMALE ,45,Epilepsy,,East Clinic,25,109186, APRIL ,2025,Discharged
+Sara Gupta,426,71,Female,32, FATIGUE ,,City Care Branch,10,17110,June,2024,discharged
+Kabir Gupta,698,65,Female,209,General Checkup,EMERGENCY,South Hospital,5,101592.5, JANUARY ,2025,Discharged
+Diya Ali,233,50, Female ,373,Fracture, ORTHOPEDICS ,North Hospital,5,101592.5,May,2025, discharged 
+Sara Sharma,702,3,MALE,21,Arrhythmia, Orthopedics ,Central Clinic,7,133546,May,2025,discharged
+DIYA KHAN,597,60,Female,32,Tumor, ONCOLOGY ,City Care Branch,5,5794,January,2024, discharged 
+Kabir Yadav,85,58,Male,-225,BACK PAIN,Orthopedics, East Clinic ,24,61218,September,2025,transferred
+Sara Yadav,577,54,Female,47, Hypertension ,CARDIOLOGY,CENTRAL CLINIC,12,107100,May,2024,Discharged
+ AARAV SHARMA ,294,69,MALE,192,,Emergency, West Medical Center ,13,60564,AUGUST,2025,Discharged
+Sara Patel,687,49,Male,282,CANCER SCREENING,ONCOLOGY,West Medical Center,11,199293,OCTOBER,2024,
+ Aarav Verma ,594,80, Female ,348, CANCER SCREENING ,ONCOLOGY, East Clinic ,13,154543,March,2025,Discharged
+ Vivaan Ali ,-734,-37, Female ,162, Stroke ,NEUROLOGY,West Medical Center,14,81380, December ,2024,Discharged
+ISHAAN JOSHI,785,312,FEMALE,378, Flu , Pediatrics ,City Care Branch,5,85159,AUGUST,2025,Deceased
+ Anaya Mehta ,416,41,Male,17, Stroke , Neurology ,CENTRAL CLINIC,13,77604,January,-2025,Discharged
+Vivaan Yadav,200,77,MALE,131,ARTHRITIS,ORTHOPEDICS, East Clinic ,20,-117266, April ,2025,discharged
+DIYA VERMA,278,58,FEMALE,154,Fatigue,Emergency, South Hospital ,3,198327,February,10125,Discharged
+ISHAAN VERMA,251,56,Female,303,Heart Disease,Cardiology,WEST MEDICAL CENTER,12,15831,November,2025,Deceased
+Anaya Sharma,599,74,FEMALE,192,Migraine,Neurology, EAST CLINIC ,-2,179003,December,2025,Discharged
+ KABIR MEHTA ,753,25,MALE,386,,Orthopedics,West Medical Center,11,196215,March,2024,Discharged
+Diya Yadav,184,77,MALE,354,HYPERTENSION, Cardiology ,City Care Branch,4,118817,April,2025,Discharged
+Meera Verma,401,10,Female,143,Asthma, PEDIATRICS ,East Clinic,19,1575420,May,2024, discharged 
+MEERA SHARMA,556,11,Male,122,Leukemia, Oncology ,West Medical Center,35,106316, October ,2024,Discharged
+Anaya Khan,588,47,Male,59, Fever , Emergency ,Central Clinic,13,104666,March,2024,Discharged
+Ishaan Gupta,387,90,Female,369,Fatigue,Emergency, West Medical Center ,,158051,OCTOBER,2024,Discharged
+ Sara Joshi ,729,49, FEMALE ,321,Heart Disease, CARDIOLOGY , City Care Branch ,7,119089,MARCH,2025,Discharged
+Meera Ali,24,50, Male ,225,Fever, ORTHOPEDICS , WEST MEDICAL CENTER ,25,122104, January ,2025,Transferred
+Meera Mehta,701,50,Female,,General Checkup,Emergency, East Clinic ,16,79302, June ,10125,Discharged
+MEERA SINGH,759,89,FEMALE,316,Fever,Orthopedics, East Clinic ,2,98879, January ,2025,Discharged
+ Riya Khan ,513,11,Male,174,Arthritis, Orthopedics ,,14,68898,OCTOBER,2025,Discharged
+Sara Singh,786,15,Female,213, Asthma , Pediatrics ,Central Clinic,-10,92706,MARCH,2025,Discharged
+UNKNOWN,367,21, MALE ,308,Hypertension,CARDIOLOGY,West Medical Center,15,190886, May ,2025,Discharged
+Riya Sharma,383,45,MALE,,Arthritis,,EAST CLINIC,36,109042,OCTOBER,2025,Discharged
+Unknown,165,54,FEMALE,372,FRACTURE,Orthopedics,SOUTH HOSPITAL,10,50851,SEPTEMBER,2025,discharged
+ Vivaan Sharma ,100,46,FEMALE,192, Stroke ,Neurology,CITY CARE BRANCH,20,23757,November,2025,Discharged
+ADITYA GUPTA,691,70,Female,250,FATIGUE,, EAST CLINIC ,15,16747,FEBRUARY,2024,Discharged
+Meera Mehta,19,8,Male,157,Fever,Emergency,North Hospital,13,101592.5, August ,2025,Discharged
+ Meera Ali ,296,17, Male ,114, Arrhythmia ,Cardiology, WEST MEDICAL CENTER ,8,61105,March,2024,Discharged
+RIYA SINGH,311,80,Male,194,Fever,EMERGENCY, SOUTH HOSPITAL ,18,95774,,2025,Discharged
+ISHAAN VERMA,74,79,FEMALE,10, Fatigue , Orthopedics ,City Care Branch,7,150089,November,2024,Discharged
+DIYA JOSHI,118,60,Male,114,Epilepsy,Neurology,Central Clinic,24,117235,January,2025,Transferred
+Riya Mehta,149,83,Male,281,Fatigue,EMERGENCY,NORTH HOSPITAL,14,121798,,2025,Discharged
+Diya Patel,148,75,,182,ARTHRITIS, Orthopedics , South Hospital ,8,101592.5,July,2025,Discharged
+Vivaan Singh,132,59, Female ,226, Fever ,Pediatrics,South Hospital,5,38643,February,2024,discharged
+ Vivaan Singh ,81,8,Female,83,FEVER, Emergency ,SOUTH HOSPITAL,11,26776,January,2024,Discharged
+ISHAAN ALI,473,52,Female,186,,Orthopedics,CITY CARE BRANCH,15,184522,May,2024,transferred
+Ishaan Yadav,378,58, Male ,192, Cancer Screening ,Oncology,West Medical Center,2,60155, July ,2024,deceased
+Vivaan Yadav,-232,83, MALE ,240, Tumor ,ONCOLOGY,North Hospital,7,171774,JANUARY,2025,Discharged
+ISHAAN GUPTA,371,58,FEMALE,33, FRACTURE ,Orthopedics, West Medical Center ,4,-36563,JULY,2024,Discharged
+RIYA KHAN,66,27, MALE ,348,LEUKEMIA, Oncology ,NORTH HOSPITAL,11,194503,DECEMBER,2024,
+RIYA MEHTA,11,36,Male,245, Arrhythmia ,Cardiology,East Clinic,18,179434,November,2024,Discharged
+Vivaan Joshi,623,49,Male,176,Fever,Emergency,West Medical Center,3,79927,MARCH,2025,Discharged
+Aditya Joshi,688,1,Female,63,Fever,PEDIATRICS,WEST MEDICAL CENTER,9,165775,November,2025,
+Riya Sharma,781,52,,17,Fracture,Orthopedics,Central Clinic,13,101592.5,March,2024, discharged 
+Unknown,102,42, Female ,192,Cancer Screening,Oncology,West Medical Center,5,55823,JANUARY,2025,Discharged
+Ishaan Khan,144,37,Male,221,CANCER SCREENING,ONCOLOGY,City Care Branch,23,36122, February ,2024,Discharged
+,128,86,MALE,75,Fever, General Surgery ,South Hospital,9,177812,October,2025,Discharged
+Meera Ali,54,51,MALE,228, Leukemia ,Oncology,South Hospital,11,176002,NOVEMBER,2025, discharged 
+ VIVAAN JOSHI ,792,73, Male ,244,BACK PAIN,Orthopedics, South Hospital ,5,125728,May,2025,Discharged
+SARA MEHTA,442,73,Male,260, Flu ,PEDIATRICS, South Hospital ,4,146214,August,2025, discharged 
+ SARA VERMA ,168,28,Male,312, ASTHMA , Pediatrics ,NORTH HOSPITAL,10,33631,June,2024,Discharged
+AARAV MEHTA,620,18,FEMALE,, Cancer Screening , ONCOLOGY ,North Hospital,2,158410,OCTOBER,2024,Discharged
+Ishaan Ali,1015,5,MALE,94,FLU,PEDIATRICS,EAST CLINIC,4,166858,June,2025,
+ Sara Patel ,807,82,Female,377, Fever ,Emergency,CENTRAL CLINIC,16,99651, February ,,
+ISHAAN GUPTA,822,13,MALE,192,TUMOR,ONCOLOGY, City Care Branch ,38,101592.5,February,2024,Discharged
+ DIYA VERMA ,407,49, MALE ,345, Asthma ,PEDIATRICS, East Clinic ,24,185248,SEPTEMBER,2024,Discharged
+  NULL  ,624,57, NULL ,192, NULL , NULL , NULL ,22,142074,  NULL  ,2025,Discharged
+Vivaan Mehta,419,28, FEMALE ,192, Arthritis ,ORTHOPEDICS, Central Clinic ,32,,December,2024,Discharged
+Aarav Patel,421,72,Female,390, Fever , GENERAL SURGERY ,NORTH HOSPITAL,13,153806,August,2025, discharged 
+ Aarav Sharma ,576,37,MALE,58,Epilepsy,Neurology, North Hospital ,11,42082,November,2024, discharged 
+MEERA VERMA,83,66, FEMALE ,149, TUMOR , ONCOLOGY ,East Clinic,11,95884, February ,2024,Discharged
+ISHAAN YADAV,519,82,Female,-69,Arrhythmia,CARDIOLOGY,South Hospital,6,102587, December ,2024,deceased
+ Aarav Singh ,57,49, Female ,112,GENERAL CHECKUP,GENERAL SURGERY,North Hospital,23,185609,November,2024,Transferred
+Kabir Mehta,309,793,,192, Arthritis ,Orthopedics,South Hospital,6,127013, January ,2025,Transferred
+  NULL  ,140,10, NULL ,192, NULL , NULL ,  NULL  ,2,10044, NULL ,2024, discharged 
+ Anaya Mehta ,-503,33, FEMALE ,68, Fever ,Pediatrics,North Hospital,3,65883, February ,2025,Transferred
+Vivaan Gupta,138,1,Female,25,Fever,General Surgery,WEST MEDICAL CENTER,23,101592.5,November,2024,
+Vivaan Mehta,728,65,MALE,341, ARTHRITIS , Orthopedics ,North Hospital,22,71132, NOVEMBER ,2024,Discharged
+Vivaan Khan,89,70, Female ,227,ARTHRITIS,Orthopedics,South Hospital,38,92339, October ,2024,Discharged
+Riya Khan,27,81, Female ,237, HEART DISEASE , CARDIOLOGY , West Medical Center ,9,14283,AUGUST,2024,Discharged
+Anaya Ali,491,39,Male,265,Fever,Emergency,North Hospital,3,74367, July ,2025,Discharged
+Meera Verma,304,-5,Male,102,GENERAL CHECKUP, General Surgery ,North Hospital,6,133525,November,2025,Discharged
+MEERA KHAN,578,88,FEMALE,151,FEVER, Emergency ,City Care Branch,7,143466,SEPTEMBER,2024,Discharged
+AARAV ALI,160,14, FEMALE ,267,General Checkup,EMERGENCY, West Medical Center ,15,123777,March,2025,Discharged
+ Sara Ali ,690,42, Female ,192,Asthma,Pediatrics,East Clinic,7,101592.5,,2024,Discharged
+Ishaan Singh,758,88,Male,300,Fever,EMERGENCY,City Care Branch,8,158861, May ,2025,TRANSFERRED
+ DIYA MEHTA ,8,60, Female ,155, Stroke , NEUROLOGY , West Medical Center ,24,32905, March ,2024,Discharged
+ Ishaan Sharma ,326,30, MALE ,109, FLU ,Pediatrics,South Hospital,13,49319,November,2025,Discharged
+Riya Joshi,656,-21, Male ,-317, Fatigue , Emergency ,WEST MEDICAL CENTER,7,-125467,APRIL,2024,Discharged
+KABIR PATEL,78,30,MALE,147,Stroke,Neurology,West Medical Center,25,63149,FEBRUARY,2025,Discharged
+Anaya Gupta,175,82,Male,89,MIGRAINE,Neurology,WEST MEDICAL CENTER,,,October,2024,Discharged
+Sara Yadav,754,7,Male,120,TUMOR,ONCOLOGY,East Clinic,7,33647,August,2024,TRANSFERRED
+ Sara Joshi ,540,79,Female,347, Stroke ,NEUROLOGY,East Clinic,4,95113, SEPTEMBER ,2024,Transferred
+ ISHAAN SHARMA ,682,49,FEMALE,132,Fever,ONCOLOGY,City Care Branch,5,101592.5,OCTOBER,2024,Transferred
+  NULL  ,658,42, NULL ,293,  NULL  , NULL ,  NULL  ,2,66154, NULL ,-2024,Discharged
+Riya Yadav,448,49, Female ,,General Checkup,GENERAL SURGERY,City Care Branch,10,26183,July,2024,Discharged
+Kabir Joshi,150,7,Female,88,General Checkup,GENERAL SURGERY,CENTRAL CLINIC,6,186318,September,2025,Discharged
+Aditya Singh,503,67,Female,192,Flu,Pediatrics,City Care Branch,,56493,DECEMBER,2024,Discharged
+ Kabir Yadav ,9,75,Female,93,Leukemia, ONCOLOGY ,South Hospital,15,153819, December ,2025,Discharged
+Aditya Patel,705,650,Female,305,Back Pain,Orthopedics,City Care Branch,8,127932,NOVEMBER,2024,Discharged
+,55,82,Female,90, Stroke ,Orthopedics,South Hospital,15,101592.5,May,2024,Discharged
+Diya Khan,178,79, MALE ,28,Fracture,Orthopedics,East Clinic,15,74779,February,2025,Discharged
+ANAYA PATEL,381,53,FEMALE,277,, Orthopedics ,Central Clinic,5,, June ,2024,Transferred
+Ishaan Verma,514,,Female,313,General Checkup, Emergency , West Medical Center ,22,331570, September ,2024, discharged 
+ Aarav Yadav ,10,10,MALE,81,General Checkup,EMERGENCY,Central Clinic,13,120879,July,2025,Discharged
+Riya Mehta,357,67,Male,119, Fatigue ,General Surgery,NORTH HOSPITAL,19,468510,February,2024,TRANSFERRED
+ISHAAN VERMA,-704,49,Female,366, Leukemia , Oncology ,West Medical Center,11,111596,November,2025,
+  NULL  ,477,57,  NULL  ,216, NULL , NULL , NULL ,19,115293, NULL ,2025,Transferred
+  NULL  ,329,47, NULL ,375, NULL , NULL , NULL ,12,190320, NULL ,2025, discharged 
+ Sara Singh ,170,19, Male ,219,Fever,Neurology, EAST CLINIC ,22,137127,December,2024,TRANSFERRED
+ KABIR ALI ,487,50,Female,78, Stroke , Neurology ,East Clinic,8,114836,April,2025, discharged 
+Vivaan Patel,236,76,FEMALE,182, LEUKEMIA , Oncology ,City Care Branch,8,101592.5,JANUARY,2025,Discharged
+Unknown,-270,71,Female,3072,Flu,Pediatrics, SOUTH HOSPITAL ,16,51819, MAY ,2024,Discharged
+SARA MEHTA,630,38,MALE,217,Fatigue, EMERGENCY , Central Clinic ,4,34718, August ,2025,TRANSFERRED
+ Meera Verma ,585,60,Male,, ASTHMA , Pediatrics ,North Hospital,3,114402,NOVEMBER,2024,Discharged
+Ishaan Singh,455,49, Female ,334,Tumor,Oncology,NORTH HOSPITAL,20,58024,June,2025,Discharged
+Aarav Khan,453,70,Male,-166, EPILEPSY ,NEUROLOGY, CITY CARE BRANCH ,20,66389, May ,2024,
+ Sara Ali ,666,15, MALE ,271,, Pediatrics ,East Clinic,26,196318, March ,2024, discharged 
+Anaya Khan,541,48,Female,199,Cancer Screening, Orthopedics ,CENTRAL CLINIC,19,92986,May,2025,Discharged
+Diya Verma,48,49, Female ,239,Fever, Emergency ,South Hospital,3,20205, October ,2025,Discharged
+Anaya Joshi,661,66, FEMALE ,250,Flu, PEDIATRICS ,,-2,-23869,July,2025,Discharged
+Meera Joshi,475,42,,325,MIGRAINE,Neurology,North Hospital,22,136679,NOVEMBER,2025,Discharged
+ Riya Singh ,481,63, MALE ,177, Fever ,Pediatrics, NORTH HOSPITAL ,21,9237, November ,2024, discharged 
+Ishaan Singh,512,28,Female,386, ARTHRITIS ,Orthopedics, WEST MEDICAL CENTER ,7,164406,,2025,Discharged
+Riya Khan,425,58,FEMALE,194,LEUKEMIA,Oncology,CITY CARE BRANCH,12,165724, OCTOBER ,2024,Discharged
+Ishaan Yadav,743,81, Male ,276,ARTHRITIS,ORTHOPEDICS,NORTH HOSPITAL,,18152,December,2024,discharged
+Anaya Ali,244,34,Female,54,General Checkup, General Surgery ,West Medical Center,2,168229, JANUARY ,2024,Discharged
+ NULL ,412,32,  NULL  ,157, NULL , NULL , NULL ,5,101592.5,  NULL  ,2025,Discharged
+ Diya Singh ,683,49, FEMALE ,371,Arthritis,ORTHOPEDICS,Central Clinic,36,183345, JANUARY ,2025,Discharged
+ ISHAAN ALI ,632,55,Male,196, Fever ,General Surgery,City Care Branch,5,63320, DECEMBER ,2024,Discharged
+Riya Mehta,723,, Female ,389,TUMOR, Oncology , CITY CARE BRANCH ,12,23266, JANUARY ,2024,Deceased
+ RIYA GUPTA ,334,44,Female,226,Flu,Pediatrics, CITY CARE BRANCH ,13,73483,JUNE,2025,
+Aarav Sharma,505,35, Male ,276,Migraine,NEUROLOGY,CENTRAL CLINIC,-18,101592.5,October,2025,
+Meera Ali,49,69,,142,Fever,, EAST CLINIC ,4,183889,May,2025,Discharged
+Diya Singh,166,84,Male,308, FATIGUE , General Surgery , City Care Branch ,4,179386,December,2024, discharged 
+Meera Khan,725,9,Male,672,Fatigue,General Surgery,West Medical Center,7,38341,June,2025, discharged 
+Aditya Gupta,109,8, Male ,128,,General Surgery,Central Clinic,15,37089,MARCH,2025,
+Aditya Khan,530,39,MALE,,Asthma,Pediatrics,West Medical Center,18,99467,August,2025,
+ISHAAN KHAN,799,61, FEMALE ,379, Fever ,CARDIOLOGY, City Care Branch ,5,100346,JULY,-2024,Transferred
+Anaya Ali,391,62,MALE,322, FEVER , Emergency , City Care Branch ,7,138316,April,2025,Discharged
+DIYA GUPTA,539,69,Male,334, Asthma , Pediatrics ,Central Clinic,30,75676,October,2024,Discharged
+KABIR MEHTA,517,-49,Male,286,,Oncology,CITY CARE BRANCH,40,100987,March,2025, discharged 
+Aarav Singh,430,,Female,197,Fever,GENERAL SURGERY,WEST MEDICAL CENTER,8,58201,,2024,Discharged
+ Sara Verma ,180,17,Male,114,Epilepsy, Neurology ,West Medical Center,25,101592.5,September,2025,Discharged
+ Ishaan Joshi ,461,49,Female,192,LEUKEMIA,Oncology,North Hospital,8,98541,June,2024,Transferred
+ Riya Singh ,159,9,Female,14,Fever,General Surgery,West Medical Center,23,180611,January,2025,Discharged
+ Riya Sharma ,380,89,Female,239,Fatigue, EMERGENCY , North Hospital ,23,11939,APRIL,2025,Discharged
+ Ishaan Gupta ,-61,3, Male ,104, FRACTURE ,ORTHOPEDICS,West Medical Center,13,101592.5,August,2024,Discharged
+Riya Sharma,773,67,FEMALE,327,Cancer Screening,Oncology,West Medical Center,35,121034,March,2024,
+ Riya Patel ,-223,31,MALE,203,HYPERTENSION,CARDIOLOGY,West Medical Center,13,26202, October ,2025,discharged
+RIYA JOSHI,232,49,MALE,173, Arthritis ,Orthopedics,City Care Branch,,184240, APRIL ,2024,Discharged
+Diya Singh,777,39,Male,3488, Fever ,ORTHOPEDICS, South Hospital ,-40,59024,February,2025,discharged
+  NULL  ,829,90, NULL ,218, NULL ,  NULL  , NULL ,13,-179895, NULL ,2024,Discharged
+Diya Mehta,289,14, Female ,362,Fatigue,Orthopedics,North Hospital,8,7802, March ,2024,Discharged
+ Anaya Sharma ,34,13, MALE ,-388,Leukemia, Oncology , South Hospital ,22,171456,MAY,2025,Discharged
+ Vivaan Yadav ,463,79,Male,-89, Flu ,Pediatrics, East Clinic ,37,-193489,July,2025,Discharged
+ NULL ,-248,2, NULL ,-232, NULL ,  NULL  , NULL ,22,, NULL ,2024,Discharged
+Riya Sharma,237,7,MALE,104,Asthma,ORTHOPEDICS,South Hospital,14,170798, August ,2025, discharged 
+Meera Yadav,436,78,Female,163, Fever ,EMERGENCY, Central Clinic ,21,90304, December ,2024, discharged 
+Kabir Patel,521,14,MALE,307,ARRHYTHMIA,Cardiology,SOUTH HOSPITAL,4,47032,July,2024,Discharged
+Sara Yadav,272,13,Male,29, Fatigue , General Surgery , City Care Branch ,16,15901,JULY,2024,Discharged
+ MEERA JOSHI ,575,63, Female ,191,Arrhythmia,Cardiology,SOUTH HOSPITAL,6,7422,NOVEMBER,2025,discharged
+ SARA VERMA ,374,84, MALE ,350, Asthma ,Pediatrics,North Hospital,3,101592.5,July,2025,Discharged
+RIYA MEHTA,335,49,FEMALE,132, FATIGUE ,Emergency, West Medical Center ,6,71288,March,2024,Discharged
+Riya Verma,672,-9,Female,99, ARRHYTHMIA , Cardiology ,South Hospital,8,70427, JULY ,2024,Discharged
+Vivaan Khan,3507,60, Male ,192, GENERAL CHECKUP ,EMERGENCY, WEST MEDICAL CENTER ,16,101592.5,April,2024,Discharged
+MEERA YADAV,770,75,Female,385,Hypertension,Cardiology,Central Clinic,20,75666,October,2025,Discharged
+Ishaan Joshi,235,19,,67, FATIGUE , General Surgery , South Hospital ,20,198052,April,2025,discharged
+DIYA MEHTA,627,45,Male,192,,Cardiology,East Clinic,-32,138443,JULY,2025,Deceased
+Meera Khan,603,80,Female,210, BACK PAIN ,Orthopedics, EAST CLINIC ,6,73688,MARCH,2024,Discharged
+Ishaan Verma,433,85,Male,167,Fever,Pediatrics,City Care Branch,4,180762,April,2024,Discharged
+KABIR PATEL,197,33, Female ,264,Fever,General Surgery,South Hospital,11,66343,January,2024,Discharged
+Riya Khan,635,7,Male,348,,Orthopedics, WEST MEDICAL CENTER ,6,-188224,January,2024, discharged 
+MEERA PATEL,438,27,Female,82,ASTHMA,PEDIATRICS,West Medical Center,11,193095,July,2024, discharged 
+ADITYA GUPTA,384,44, Male ,240, Hypertension ,CARDIOLOGY, West Medical Center ,35,140572, September ,2025,
+ Aarav Singh ,275,,Female,123,CANCER SCREENING,Oncology,East Clinic,13,101592.5,,2025,Discharged
+Kabir Patel,664,31,MALE,226,Epilepsy,Neurology, South Hospital ,4,41742, September ,2024,Discharged
+Anaya Patel,257,37,Male,161,Back Pain,Orthopedics,West Medical Center,,176047, February ,2024,
+Anaya Joshi,557,,Male,125,GENERAL CHECKUP, EMERGENCY ,East Clinic,5,180352,January,2024,Discharged
+Vivaan Yadav,127,78, FEMALE ,-352,Migraine,NEUROLOGY,South Hospital,40,1152120, DECEMBER ,2025,Discharged
+Meera Mehta,2233,169,Female,298, Hypertension ,Cardiology,CENTRAL CLINIC,8,131219, March ,2025,Discharged
+SARA PATEL,222,49,Female,134, GENERAL CHECKUP , General Surgery ,SOUTH HOSPITAL,13,94877,JUNE,2025,Transferred
+ Aarav Joshi ,437,3,FEMALE,31,, Emergency ,North Hospital,3,1562930,March,2025, discharged 
+KABIR GUPTA,158,53, Male ,145,FLU,Pediatrics,West Medical Center,39,96006,July,2024,
+ DIYA YADAV ,-11,68,FEMALE,380,Arthritis,ORTHOPEDICS,North Hospital,18,95312, JULY ,2025,Transferred
+Riya Mehta,62,-40,MALE,-366,Fever,Pediatrics, City Care Branch ,10,14885, March ,2024,
+ISHAAN SHARMA,527,78, Male ,176,ARRHYTHMIA,Cardiology,East Clinic,,181963, December ,2025,Discharged
+Kabir Sharma,156,6, Male ,272,Fracture, ORTHOPEDICS ,East Clinic,5,73715,March,-2024,
+ NULL ,700,89, NULL ,318, NULL , NULL , NULL ,35,129682,  NULL  ,2024, discharged 
+ISHAAN GUPTA,99,83,Female,130,Stroke,NEUROLOGY,West Medical Center,36,52382,March,2024,
+Riya Singh,415,49,Male,285,Flu,PEDIATRICS, Central Clinic ,13,81154,APRIL,2024,Discharged
+ UNKNOWN ,230,54,MALE,212, Stroke , NEUROLOGY ,Central Clinic,16,192291, APRIL ,2025,
+Vivaan Joshi,590,34,FEMALE,141, Fever ,PEDIATRICS, WEST MEDICAL CENTER ,,102539,DECEMBER,2024, discharged 
+Aarav Sharma,579,58,Male,136,Flu, Pediatrics , East Clinic ,3,101592.5,JUNE,2025,Discharged
+Kabir Yadav,45,72, MALE ,282, Asthma ,Pediatrics, NORTH HOSPITAL ,8,100181,January,2025,Discharged
+ NULL ,298,57, NULL ,299, NULL , NULL , NULL ,8,51314,  NULL  ,2025,Discharged
+ADITYA ALI,583,36, Male ,347,Arrhythmia,Cardiology, CITY CARE BRANCH ,13,28125,June,-2024, discharged 
+ Riya Verma ,77,70,Male,24,Heart Disease, CARDIOLOGY , East Clinic ,3,1501750,May,2024,Discharged
+Aditya Sharma,25,60, MALE ,35,Stroke,NEUROLOGY,West Medical Center,238,20143,SEPTEMBER,2024,discharged
+ Unknown ,75,71, Female ,123,Heart Disease,Cardiology, West Medical Center ,12,118114, January ,2024,Discharged
+Diya Singh,321,81,Male,378,Fever,Emergency, City Care Branch ,3,116158,FEBRUARY,2024,
+Meera Ali,4,77, Female ,262,Back Pain,ORTHOPEDICS, East Clinic ,13,133544,,2025,Deceased
+AARAV SINGH,396,15,MALE,8,Arrhythmia,Cardiology,North Hospital,16,106393,April,2025,Discharged
+ISHAAN VERMA,697,10, MALE ,374,Back Pain,Orthopedics,East Clinic,36,191421,MAY,2025, discharged 
+ Meera Singh ,565,17,Female,148,HEART DISEASE,Cardiology, CITY CARE BRANCH ,5,-63366, October ,2025, discharged 
+ Diya Mehta ,133,49,Male,393,Heart Disease,Cardiology,North Hospital,2,77584, SEPTEMBER ,2025, discharged 
+Aarav Yadav,783,8, MALE ,331,Back Pain, ORTHOPEDICS ,City Care Branch,36,37235,January,2024,Discharged
+Anaya Patel,703,36, Female ,63,Fatigue,Emergency,East Clinic,4,101592.5, OCTOBER ,2025,TRANSFERRED
+ Ishaan Yadav ,44,24,FEMALE,366,STROKE,NEUROLOGY,South Hospital,13,12598,July,2024,Discharged
+ KABIR PATEL ,582,37,Female,212,FLU, Pediatrics ,Central Clinic,5,90481, MARCH ,2025,Discharged
+Riya Yadav,63,68,Female,192,Flu,PEDIATRICS,EAST CLINIC,19,127274,December,2024,Discharged
+  NULL  ,395,53, NULL ,309, NULL , NULL ,  NULL  ,26,180883, NULL ,2024,Discharged
+Diya Singh,509,49,Male,283,TUMOR,ONCOLOGY, South Hospital ,11,154105,November,2024,Discharged
+Vivaan Ali,819,54, Female ,286,,Emergency,City Care Branch,16,13163,September,2024, discharged 
+ Vivaan Ali ,-689,663,Male,327,General Checkup, General Surgery , East Clinic ,13,182823,March,2024,Discharged
+ ISHAAN ALI ,602,70,Male,137,GENERAL CHECKUP,General Surgery,West Medical Center,8,21645,January,2024,Discharged
+Aditya Khan,67,52,Female,268,Fever, Emergency ,,8,159134, OCTOBER ,2024,Transferred
+Sara Gupta,242,25,Female,98,Hypertension,Cardiology,East Clinic,13,45778,APRIL,2025,Discharged
+Aditya Patel,88,48,FEMALE,337, Fever , Pediatrics ,WEST MEDICAL CENTER,9,99858,August,2024,Discharged
+RIYA SINGH,633,72,MALE,265,Hypertension, Orthopedics ,Central Clinic,15,-192371, December ,2024,
+ NULL ,492,77, NULL ,347, NULL , NULL ,  NULL  ,12,153280, NULL ,2025,Discharged
+Diya Patel,325,69,Female,192,Fever,Pediatrics,CITY CARE BRANCH,6,182941, DECEMBER ,2025,Transferred
+AARAV PATEL,215,49,Female,268,Fever,Oncology,East Clinic,20,85878,June,2025,Transferred
+KABIR JOSHI,625,78, MALE ,-183,FRACTURE,Orthopedics,North Hospital,15,193975, AUGUST ,2024,Discharged
+ SARA PATEL ,111,20, Male ,264,HYPERTENSION, Cardiology ,North Hospital,13,148288,October,2025,Discharged
+Anaya Mehta,685,43,Female,369, Migraine , Neurology ,EAST CLINIC,15,134797, December ,2024,Discharged
+Sara Verma,93,89,Male,234,Arrhythmia,Cardiology,West Medical Center,17,157168,DECEMBER,2024,Discharged
+Aditya Verma,390,15, Male ,283,BACK PAIN,,West Medical Center,21,33362,September,2024, discharged 
+ NULL ,352,74,,331,  NULL  , NULL , NULL ,15,143447, NULL ,2024,Discharged
+ Diya Patel ,589,84, Female ,259, EPILEPSY ,Neurology,South Hospital,13,123475,May,-2025,
+Kabir Ali,443,69, Male ,136,Hypertension,Cardiology,WEST MEDICAL CENTER,10,153614,January,2025, discharged 
+ Meera Khan ,30,61,MALE,133,Fatigue,General Surgery,Central Clinic,13,92231,,10125,Discharged
+Diya Patel,615,32,Female,228, Asthma ,Pediatrics, SOUTH HOSPITAL ,16,192804,October,2025,Discharged
+  NULL  ,813,86, NULL ,33, NULL , NULL , NULL ,18,184365,  NULL  ,2024,Discharged
+ Sara Verma ,5,20,Female,134,HEART DISEASE, Cardiology ,South Hospital,112,101592.5, March ,2024,Discharged
+ Sara Ali ,255,18, MALE ,31,Epilepsy, Neurology ,,16,157564,November,2025,Discharged
+Vivaan Ali,654,73, Male ,29,BACK PAIN,Orthopedics,East Clinic,2,46051, October ,2025,Discharged
+Kabir Singh,104,41,Male,228,Fracture,ORTHOPEDICS, NORTH HOSPITAL ,7,-168452,NOVEMBER,2024,Discharged
+Kabir Ali,346,51,FEMALE,62,FEVER,Emergency, North Hospital ,8,24749,March,2024,Discharged
+Aditya Patel,246,57,Male,355,Migraine,Neurology, North Hospital ,7,101592.5,June,2025,Discharged
+ISHAAN JOSHI,115,41, Female ,319,Fever, EMERGENCY , East Clinic ,9,101592.5,June,2025,Discharged
+ SARA SINGH ,791,22,Male,275, Stroke ,Neurology,City Care Branch,10,49652,July,2024,Discharged
+Meera Khan,129,47,Female,247,Tumor,ONCOLOGY,Central Clinic,12,49493,April,2025,Deceased
+ Vivaan Khan ,459,45,FEMALE,352, Fever , General Surgery ,North Hospital,8,64764,July,2025,Discharged
+KABIR GUPTA,450,71,Male,62, FRACTURE ,ORTHOPEDICS,CITY CARE BRANCH,3,32267, July ,2025,Discharged
+ ADITYA KHAN ,775,44,MALE,192, ARTHRITIS , ORTHOPEDICS , South Hospital ,20,63980,DECEMBER,2024,Discharged
+SARA PATEL,686,37,Female,290, Flu ,Pediatrics, South Hospital ,33,102399,October,2024,Discharged
+ Diya Sharma ,748,11, Female ,82,FRACTURE,ORTHOPEDICS, City Care Branch ,28,95402,April,2024,Discharged
+DIYA SHARMA,21,13, Male ,193, TUMOR ,ONCOLOGY,City Care Branch,29,46379,April,2024,Discharged
+Meera Verma,555,61, FEMALE ,300,Fever,General Surgery,Central Clinic,13,123650,March,2024, discharged 
+AARAV VERMA,58,39,Female,107,Fever,General Surgery, NORTH HOSPITAL ,34,49137, September ,2025,
+ Aditya Singh ,479,49,Male,74,Leukemia,Oncology,CITY CARE BRANCH,29,-56856, SEPTEMBER ,2025,Discharged
+DIYA KHAN,292,79,Female,308, Asthma ,Pediatrics, East Clinic ,3,27204, August ,2024,Discharged
+ NULL ,53,42,  NULL  ,151, NULL , NULL , NULL ,8,106377,  NULL  ,2025,
+DIYA SHARMA,273,15,Male,41,FATIGUE,General Surgery,Central Clinic,-14,164557, August ,2024,Discharged
+,214,21,Female,64,Leukemia, ONCOLOGY ,North Hospital,4,101592.5,February,2025,Transferred
+ NULL ,631,47, NULL ,359, NULL , NULL , NULL ,31,162436, NULL ,2024,discharged
+ NULL ,96,39, NULL ,121, NULL ,  NULL  , NULL ,6,98854, NULL ,10125,Discharged
+Sara Verma,199,9,MALE,145,FATIGUE, Emergency , City Care Branch ,17,143914, May ,2025,Discharged
+Anaya Patel,110,84,Female,108,Fever,Emergency,North Hospital,4,18979,February,2025,Discharged
+Kabir Sharma,18,37, Female ,217,STROKE,Neurology,CITY CARE BRANCH,22,49747,November,2025,Discharged
+ Aditya Gupta ,788,47,Female,386, FEVER , General Surgery ,Central Clinic,37,972320,June,2024, discharged 
+ Vivaan Sharma ,204,90, Male ,113,FATIGUE,GENERAL SURGERY,South Hospital,25,36058,JUNE,2025,Discharged
+Anaya Gupta,738,72, FEMALE ,22, Stroke ,,North Hospital,2,53301,FEBRUARY,2024,Discharged
+Vivaan Verma,312,14, Female ,98,Hypertension,Cardiology,NORTH HOSPITAL,20,114531,August,10120,Discharged
+Sara Ali,291,85,MALE,367,Fever, Emergency , North Hospital ,,,December,2025,Discharged
+Sara Ali,488,260,FEMALE,78,Stroke,Neurology,North Hospital,11,175641, May ,2025,TRANSFERRED
+ Diya Verma ,82,117,Male,207,Arthritis,ORTHOPEDICS, North Hospital ,24,85735,April,-2025, discharged 
+ Aditya Joshi ,817,40, FEMALE ,386,BACK PAIN,Orthopedics, West Medical Center ,5,121535, January ,2024,Discharged
+KABIR SINGH,820,66,Female,215,FEVER, General Surgery ,South Hospital,23,40099,March,2025,Transferred
+Vivaan Gupta,670,71,MALE,40,Heart Disease, CARDIOLOGY ,South Hospital,5,7373,MAY,2025, discharged 
+Aarav Gupta,-91,49,Female,139,General Checkup,Emergency,,-4,14193, March ,2025,Discharged
+ AARAV SINGH ,363,32,Female,269, Flu ,Pediatrics,South Hospital,17,59687, February ,2025,Discharged
+Riya Khan,134,18, MALE ,283,ARTHRITIS, Orthopedics ,East Clinic,26,44904, DECEMBER ,2025,Discharged
+SARA JOSHI,254,34,Male,302,TUMOR, Oncology , South Hospital ,19,101592.5, September ,2025,Discharged
+Vivaan Patel,181,3,Female,261, HYPERTENSION ,CARDIOLOGY,West Medical Center,22,107094, January ,2025, discharged 
+KABIR ALI,495,19, Male ,5088,Fever, Pediatrics ,CITY CARE BRANCH,2,197282, November ,2025,Discharged
+Diya Mehta,808,62,FEMALE,262, Arrhythmia ,CARDIOLOGY,CITY CARE BRANCH,15,101592.5, FEBRUARY ,2024,Discharged
+Vivaan Mehta,737,63,,319,Back Pain, Orthopedics ,Central Clinic,-11,59771, May ,2024,Discharged
+Meera Yadav,402,41,Male,150,Epilepsy, Neurology ,City Care Branch,9,189441,APRIL,2024,Discharged
+ Sara Gupta ,330,27, Male ,210,Heart Disease,Cardiology,West Medical Center,36,42330,,-2024,Discharged
+Ishaan Gupta,120,50, Female ,252, Epilepsy ,Neurology,East Clinic,34,48895, December ,2025,discharged
+Anaya Khan,713,90, Female ,42, CANCER SCREENING ,Oncology,South Hospital,14,183266,August,2025,
+UNKNOWN,732,47,Female,148, Stroke ,Neurology, South Hospital ,10,181559,March,2025,Discharged
+Diya Gupta,534,65,Male,320,Tumor,Oncology,Central Clinic,16,174650,August,2024,Discharged
+DIYA SHARMA,213,85, Male ,373,FRACTURE,Orthopedics,East Clinic,4,126942, January ,2025,Discharged
+,647,9,Male,330,Asthma, Pediatrics , South Hospital ,17,64755,June,2024,Deceased
+Diya Singh,709,12,Female,349,Leukemia,Oncology,City Care Branch,20,,November,2024,Discharged
+Aditya Verma,194,12, Female ,36,Leukemia,Oncology,City Care Branch,210,187252,July,2024,Discharged
+  NULL  ,764,51, NULL ,213, NULL , NULL ,  NULL  ,22,98953, NULL ,2025,
+ Meera Yadav ,92,75,MALE,351,Arrhythmia, Cardiology ,East Clinic,18,50487,January,2025,Discharged
+Meera Khan,717,39, Male ,,Asthma,PEDIATRICS,City Care Branch,17,121406,DECEMBER,2025,Discharged
+AARAV KHAN,532,17, Female ,256,TUMOR,ONCOLOGY,South Hospital,25,98746,September,2024,Discharged
+Kabir Ali,161,49,Male,215, FEVER ,PEDIATRICS,WEST MEDICAL CENTER,12,124742,February,2025, discharged 
+  NULL  ,553,26,,106,,  NULL  , NULL ,23,196784, NULL ,2025,Discharged
+Riya Sharma,47,49,Male,189,CANCER SCREENING, Oncology ,East Clinic,10,142800,March,2024,Discharged
+Meera Joshi,117,42,Male,128, Flu ,Pediatrics,Central Clinic,33,6368, MARCH ,2025,Discharged
+Kabir Joshi,219,46, FEMALE ,388,Arthritis, Orthopedics , CITY CARE BRANCH ,7,69487,October,2025,Discharged
+ADITYA PATEL,655,68, Male ,35,STROKE,Neurology,SOUTH HOSPITAL,17,171807, June ,2025,Discharged
+Diya Singh,637,33,Male,28,Heart Disease,Cardiology, WEST MEDICAL CENTER ,20,28261,MARCH,2024,Transferred
+ISHAAN JOSHI,143,20, Male ,344,HYPERTENSION, CARDIOLOGY ,City Care Branch,13,81074,July,2025,Discharged
+Aditya Patel,126,28, Male ,, Fever ,GENERAL SURGERY,SOUTH HOSPITAL,28,105259, January ,,Deceased
+  NULL  ,327,86, NULL ,2, NULL , NULL , NULL ,4,56649, NULL ,2025,TRANSFERRED
+ Meera Verma ,639,7,Female,198,Heart Disease,Cardiology,NORTH HOSPITAL,6,173713, June ,2024,Discharged
+Unknown,572,5,FEMALE,295,FEVER, General Surgery , CITY CARE BRANCH ,11,176493,February,2025,Transferred
+Aditya Gupta,35,27,MALE,179,Cancer Screening, ONCOLOGY , SOUTH HOSPITAL ,40,20739, January ,2025,discharged
+Aarav Yadav,203,48, MALE ,39,Back Pain,Orthopedics, CENTRAL CLINIC ,22,143685,,2024,Transferred
+Vivaan Gupta,359,49,Male,304,, PEDIATRICS ,City Care Branch,10,67903,November,2025,Discharged
+Kabir Verma,497,31, Female ,156,FEVER,CARDIOLOGY,Central Clinic,34,26724,April,2025, discharged 
+Meera Mehta,657,3,Male,353, HYPERTENSION , CARDIOLOGY , South Hospital ,4,103576,July,2025,Discharged
+Aarav Khan,337,61,Male,215,FRACTURE,ORTHOPEDICS,NORTH HOSPITAL,4,185312, October ,2025,Discharged
+Anaya Mehta,2,79,Female,215,Asthma,Pediatrics,SOUTH HOSPITAL,30,-137476,August,2024,Transferred
+ Aditya Joshi ,650,29,Female,94,HEART DISEASE,CARDIOLOGY,City Care Branch,18,-62852, December ,2024,
+Ishaan Mehta,305,49,Male,120,Heart Disease, Cardiology ,Central Clinic,8,187924, June ,2024,Discharged
+ ISHAAN ALI ,360,55, Female ,298,Hypertension,Cardiology,NORTH HOSPITAL,13,148456, January ,2025,Discharged
+Riya Verma,364,-65,Female,212,Cancer Screening, ONCOLOGY , North Hospital ,10,,JULY,2024,Discharged
+ISHAAN SHARMA,306,27,Female,77,Arrhythmia,CARDIOLOGY,North Hospital,28,125710,AUGUST,2025, discharged 
+ Aarav Khan ,611,49, MALE ,194, HYPERTENSION , Cardiology ,NORTH HOSPITAL,2,172086, JUNE ,2025,Discharged
+Unknown,37,2,Male,108,FEVER,PEDIATRICS,North Hospital,4,104176, SEPTEMBER ,2024,Deceased
+Kabir Mehta,234,20,MALE,58, Migraine ,Neurology,CITY CARE BRANCH,10,28673, July ,2025,
+Vivaan Verma,400,3, Male ,245, Fever , General Surgery , West Medical Center ,16,107417,DECEMBER,2025, discharged 
+ Riya Khan ,427,20,Male,286,BACK PAIN,ORTHOPEDICS,CITY CARE BRANCH,13,50979,September,2025,
+Ishaan Khan,136,16,Female,156,FATIGUE, General Surgery ,North Hospital,22,90947, AUGUST ,2025,Discharged
+Anaya Joshi,756,30,FEMALE,247,General Checkup,EMERGENCY,CITY CARE BRANCH,20,194161,January,2025, discharged 
+,800,25,Female,232, MIGRAINE ,Neurology,East Clinic,16,117867,August,2024,Discharged
+Ishaan Joshi,319,7,MALE,3,Fever,Emergency,WEST MEDICAL CENTER,31,24804,APRIL,2025,Transferred
+UNKNOWN,466,72,Female,173,Back Pain,,South Hospital,7,61953,December,2025,Transferred
+Aditya Singh,5089,31,MALE,124,EPILEPSY, NEUROLOGY ,Central Clinic,6,128307,JULY,2024,Discharged
+Aarav Yadav,812,10, Male ,150,FEVER,Orthopedics,South Hospital,11,81336,,2025, discharged 
+Sara Mehta,91,42,,183,CANCER SCREENING, Oncology ,South Hospital,7,44207,June,2024,Discharged
+Vivaan Singh,84,59,Male,377,Arrhythmia,CARDIOLOGY, West Medical Center ,10,133396, January ,2025,Discharged
+ Aarav Yadav ,601,46, FEMALE ,327,Fracture,Orthopedics, South Hospital ,15,199919,JANUARY,,Discharged
+ DIYA SINGH ,377,48,,375, Fever ,General Surgery, NORTH HOSPITAL ,14,43010,November,2025,Discharged
+Riya Singh,373,40,Female,93,Leukemia, Oncology ,North Hospital,16,80437, January ,2025,Discharged
+Meera Mehta,790,49, Female ,205,Fever,CARDIOLOGY,NORTH HOSPITAL,12,97622, October ,2024, discharged 
+Sara Verma,715,22,Male,73,LEUKEMIA,Oncology,West Medical Center,20,175268,November,2024,Discharged
+ Vivaan Singh ,324,71,FEMALE,351, FATIGUE ,Emergency,EAST CLINIC,14,1650880,June,2024,Discharged
+,441,89,Female,218,General Checkup, EMERGENCY ,,-3,70805,February,2025,Discharged
+ ADITYA GUPTA ,87,59, FEMALE ,189,FEVER, General Surgery , Central Clinic ,21,160974,MAY,2025, discharged 
+Kabir Mehta,14,6, MALE ,88,FLU, Pediatrics , South Hospital ,37,74274,AUGUST,2025,Discharged
+Unknown,406,,Female,166, Flu ,Pediatrics,West Medical Center,7,79599, February ,2024,Discharged
+DIYA YADAV,94,21,Female,24,Fatigue, GENERAL SURGERY , NORTH HOSPITAL ,26,16397,JANUARY,10125,Discharged
+Ishaan Patel,452,11, MALE ,25,Fatigue,Emergency, City Care Branch ,4,158877,MAY,2025, discharged 
+VIVAAN KHAN,423,10,FEMALE,363,Cancer Screening, Oncology ,CENTRAL CLINIC,3,72396, FEBRUARY ,2025,Discharged
+,176,299, FEMALE ,329, ARTHRITIS ,Orthopedics,Central Clinic,2,26102, November ,2025,Discharged
+UNKNOWN,399,55,Female,227,Flu,Pediatrics, East Clinic ,8,140265, July ,2025, discharged 
+Vivaan Joshi,43,50,Female,298,CANCER SCREENING,Oncology,South Hospital,10,-53813,January,2025, discharged 
+Riya Gupta,285,71,MALE,382, Fracture ,Orthopedics,CITY CARE BRANCH,8,9172,DECEMBER,2025,Discharged
+Meera Mehta,668,38, MALE ,75, Fever , ORTHOPEDICS ,NORTH HOSPITAL,112,191305,September,2024,
+,192,50,Female,148,ARRHYTHMIA, Cardiology ,NORTH HOSPITAL,33,101592.5,June,2025,Discharged
+Kabir Singh,494,84, Female ,81, Fatigue , Emergency , NORTH HOSPITAL ,15,178268, March ,2025,Discharged
+ Diya Yadav ,4172,5,Female,147, FATIGUE ,GENERAL SURGERY,CITY CARE BRANCH,3,82257,January,2025,Discharged
+Meera Joshi,342,49,MALE,258,General Checkup,Emergency,East Clinic,25,53864,July,2025,Discharged
+VIVAAN SHARMA,692,58, MALE ,156,General Checkup,General Surgery, CENTRAL CLINIC ,13,12088,January,2024,Discharged
+ Meera Mehta ,28,61, Female ,235, Fatigue ,GENERAL SURGERY,East Clinic,5,188169,JANUARY,2025, discharged 
+ADITYA ALI,354,71,Female,55,Cancer Screening,ONCOLOGY,South Hospital,6,176668,,2024,Discharged
+Kabir Singh,408,88,FEMALE,105, MIGRAINE ,NEUROLOGY,West Medical Center,19,101592.5,AUGUST,2024,Transferred
+Riya Joshi,-768,77,Female,192, Fever ,EMERGENCY, East Clinic ,24,193872,January,2025,
+DIYA MEHTA,320,2, FEMALE ,79, Epilepsy , Neurology ,South Hospital,17,48851,APRIL,2024,discharged
+ISHAAN KHAN,39,72,Male,387,ARTHRITIS,, West Medical Center ,8,101592.5,September,2025,Deceased
+ Aditya Sharma ,208,31,Male,247, General Checkup ,Emergency,NORTH HOSPITAL,15,151517, JANUARY ,2024, discharged 
+,-506,64,MALE,193, Asthma ,Pediatrics, City Care Branch ,19,94555,July,2024,Discharged
+ AARAV GUPTA ,542,65,Male,339,ARRHYTHMIA,CARDIOLOGY, Central Clinic ,17,192119,November,2025,Discharged
+ Vivaan Singh ,731,77,Male,,,Neurology,North Hospital,-14,98220,April,2024,Discharged
+ ISHAAN KHAN ,282,43,Female,282, FEVER , Emergency ,West Medical Center,3,,June,2024,Discharged
+  NULL  ,-56,41, NULL ,351, NULL , NULL , NULL ,35,77877, NULL ,2024,Discharged
+Unknown,347,43,FEMALE,182, ASTHMA ,PEDIATRICS,West Medical Center,19,99457, June ,-2025,Discharged
+ DIYA SHARMA ,-2877,83,Male,379,Migraine, NEUROLOGY , CITY CARE BRANCH ,2,61491,FEBRUARY,2025, discharged 
+ISHAAN YADAV,1,59, FEMALE ,192,General Checkup,Emergency,East Clinic,24,134210,November,2025,Discharged
+DIYA JOSHI,350,49,Female,325,Fever,Emergency,West Medical Center,-2,196897,March,2025,Discharged
+Meera Khan,221,49,Female,376,Fever,Emergency, WEST MEDICAL CENTER ,6,161867, NOVEMBER ,2024,Discharged
+MEERA YADAV,484,49,Male,73,Asthma, Pediatrics ,SOUTH HOSPITAL,13,173179, AUGUST ,2024,Discharged
+ Ishaan Singh ,802,-5, FEMALE ,231, Cancer Screening ,ONCOLOGY, CENTRAL CLINIC ,40,64894, February ,2025,Discharged
+ ANAYA GUPTA ,789,89, Male ,192,FEVER,Emergency,West Medical Center,2,49979,April,2025,Transferred
+ Aarav Joshi ,224,24,Male,371, Fracture ,ORTHOPEDICS,CENTRAL CLINIC,3,,January,2024,Discharged
+ Anaya Ali ,366,27, Female ,59,Leukemia,ONCOLOGY,South Hospital,21,42680,December,2024,Discharged
+ Kabir Verma ,220,38,MALE,148,Fever,General Surgery,West Medical Center,18,74696,October,2025,Discharged
+ Kabir Patel ,5299,57, FEMALE ,297,Arthritis,ORTHOPEDICS,North Hospital,23,,MAY,2024,Discharged
+ Aarav Singh ,803,46, Female ,165,General Checkup,General Surgery, Central Clinic ,30,37621,October,2024,Discharged
+ Aditya Ali ,202,27, Male ,52,Fever,Emergency,West Medical Center,24,34223,JULY,2025, discharged 
+Aarav Yadav,571,14, FEMALE ,136,Arthritis,ORTHOPEDICS, South Hospital ,26,199143,January,2025, discharged 
+ Riya Mehta ,240,54,Male,177, ASTHMA , Pediatrics ,WEST MEDICAL CENTER,7,91962,May,2024,Discharged
+VIVAAN SINGH,261,49, Female ,180,Fracture,Orthopedics,North Hospital,12,114791,SEPTEMBER,2025,Discharged
+Diya Joshi,142,59,Male,135,Asthma,Pediatrics,South Hospital,29,107683,November,2025,Discharged
+Kabir Patel,-374,53,MALE,78,Flu,PEDIATRICS,West Medical Center,35,31423,February,10125,Discharged
+ VIVAAN GUPTA ,187,74,FEMALE,33,Leukemia, Oncology ,City Care Branch,25,23078,January,2024, deceased 
+,323,24,Male,4720, FATIGUE ,Emergency,CITY CARE BRANCH,19,166242, MAY ,2025,
+Aditya Verma,211,82,FEMALE,107,Asthma, Pediatrics , Central Clinic ,14,148678, OCTOBER ,2024,
+ Diya Mehta ,2002,85,,328,Stroke, NEUROLOGY ,CITY CARE BRANCH,21,195033, June ,2024,Discharged
+Meera Singh,828,81, Female ,192, FEVER ,General Surgery, West Medical Center ,8,15598,April,2024,
+Aarav Verma,310,17,Female,184,Arthritis,ORTHOPEDICS,North Hospital,3,-14030, September ,2025,Discharged
+ DIYA JOSHI ,-801,51,Male,165,CANCER SCREENING,Oncology, South Hospital ,20,104463, JULY ,2025,Discharged
+ Anaya Sharma ,36,27,Male,266,Cancer Screening, ORTHOPEDICS ,CITY CARE BRANCH,31,112530, July ,2025,Discharged
+Ishaan Joshi,418,83,FEMALE,232,BACK PAIN,Orthopedics, West Medical Center ,7,75065,July,2025,discharged
+SARA SHARMA,308,37,Female,-30, Tumor , Orthopedics , West Medical Center ,11,54556,March,2025, discharged 
+ DIYA SINGH ,719,49,Female,144,Stroke,NEUROLOGY,CITY CARE BRANCH,19,93935,January,2024,
+ Kabir Gupta ,546,73,Male,192,Tumor,ONCOLOGY, North Hospital ,3,153684, September ,2024, discharged 
+ANAYA ALI,569,49,MALE,29,Stroke,Neurology,City Care Branch,37,21835, February ,2025,
+Aarav Yadav,288,15, MALE ,205,Hypertension,Cardiology, South Hospital ,21,46606,September,2024,Transferred
+AARAV PATEL,328,49,,92, FEVER , Emergency ,North Hospital,-29,11384,February,2024,Discharged
+ADITYA KHAN,720,45, Male ,160, CANCER SCREENING ,Oncology,Central Clinic,4,11324, November ,2024,Discharged
+ANAYA KHAN,177,72,Female,120,Migraine, NEUROLOGY ,City Care Branch,6,134774, March ,2024,Discharged
+Kabir Ali,548,37,Female,,TUMOR,Oncology, Central Clinic ,19,195720,March,2024,
+ Sara Verma ,645,80, FEMALE ,336,Fever,Emergency,East Clinic,-6,102560,SEPTEMBER,2025,Discharged
+ Vivaan Singh ,424,49, FEMALE ,27, Arrhythmia , Cardiology ,East Clinic,,190188, SEPTEMBER ,2025,Discharged
+Kabir Ali,409,19, Female ,356,Arrhythmia,Cardiology,CENTRAL CLINIC,11,157561, MAY ,2025,Discharged
+RIYA SHARMA,821,21,Male,211,Stroke,Neurology,CENTRAL CLINIC,112,,FEBRUARY,2025,Discharged
+Meera Verma,332,45,MALE,182,TUMOR, Oncology ,WEST MEDICAL CENTER,14,175179,AUGUST,2024,Discharged
+Meera Singh,693,21,Female,-3, Hypertension , CARDIOLOGY , West Medical Center ,6,101592.5,August,2025, discharged 
+ Riya Ali ,604,88,FEMALE,359,Hypertension, Cardiology , City Care Branch ,18,138016,January,2024,discharged
+AARAV SINGH,152,49,Female,46,Stroke,Neurology, East Clinic ,8,87706,September,2024,Discharged
+Aarav Gupta,417,13,Female,379,Leukemia,ONCOLOGY,,24,52176,DECEMBER,2025,Discharged
+ MEERA YADAV ,209,5,MALE,272,FATIGUE, Emergency , City Care Branch ,,,AUGUST,,Transferred
+ Sara Patel ,394,89,FEMALE,6,Fever, Emergency ,East Clinic,2,84492,November,2025,Discharged
+Riya Yadav,61,40,Male,349,General Checkup,Emergency,West Medical Center,3,196519, November ,2025,Discharged
+ Kabir Yadav ,171,30, FEMALE ,376,General Checkup,General Surgery,South Hospital,11,36998,July,2025,
+Sara Khan,31,38,Male,223, FEVER ,Emergency, North Hospital ,12,71314,January,2025,Discharged
+ Aarav Sharma ,716,39,Female,28,Epilepsy,NEUROLOGY,SOUTH HOSPITAL,3,992880, May ,10125,Discharged
+ NULL ,806,60,  NULL  ,145,  NULL  ,  NULL  , NULL ,26,144793, NULL ,2024,Discharged
+ Meera Ali ,201,73,Female,329,FATIGUE,Emergency,EAST CLINIC,25,51911,August,2024,Discharged
+Vivaan Joshi,502,49, Female ,191,Fracture,Orthopedics, East Clinic ,13,47413,November,2024,discharged
+Ishaan Khan,343,33, FEMALE ,279,Epilepsy, Neurology , Central Clinic ,21,177259,March,2025,Discharged
+Aarav Joshi,386,49,Male,190,Heart Disease,, North Hospital ,25,1410830,November,2024,
+Aditya Ali,195,60,,, Arrhythmia ,Cardiology,North Hospital,12,144460, January ,2024,Discharged
+Unknown,155,62,Male,333,ASTHMA,Pediatrics,West Medical Center,4,159336,JUNE,2024,
+ Kabir Joshi ,-68,57,FEMALE,157,Epilepsy, Neurology , NORTH HOSPITAL ,4,80268,,2024, discharged 
+KABIR GUPTA,747,49, MALE ,158, General Checkup ,Emergency, CITY CARE BRANCH ,22,130035, July ,2025,Discharged
+Riya Gupta,121,80,Female,55,Tumor,Oncology,South Hospital,8,138824, April ,2024,Discharged
+DIYA MEHTA,258,49, FEMALE ,269, Fatigue ,Emergency,West Medical Center,39,45110,December,2024,Discharged
+Diya Khan,787,61,Female,175,Migraine,Neurology,Central Clinic,,70710, August ,2025,Discharged
+ Aarav Singh ,490,4,Male,168,ASTHMA, Pediatrics ,Central Clinic,19,101505,February,2025,Transferred
+ Ishaan Gupta ,284,68, Female ,111, Fever , Pediatrics ,WEST MEDICAL CENTER,7,32092, October ,2024,Discharged
+Anaya Khan,796,56, Male ,323,Back Pain,Orthopedics, North Hospital ,29,37488, SEPTEMBER ,2024,Discharged
+Ishaan Mehta,106,77,Female,37, Flu , Pediatrics ,South Hospital,17,46920,October,2024,Discharged
+Aditya Gupta,410,81,Female,55, Arrhythmia ,Cardiology,CENTRAL CLINIC,22,180053, APRIL ,2025,TRANSFERRED
+Aditya Patel,659,67, MALE ,286,,EMERGENCY,South Hospital,22,126398,JULY,2024,Deceased
+MEERA VERMA,123,80,Female,146,Cancer Screening,Oncology, Central Clinic ,25,115231,April,2024,discharged
+Meera Singh,191,83,Male,59,GENERAL CHECKUP,EMERGENCY,NORTH HOSPITAL,4,101592.5, JANUARY ,2025,Transferred
+ KABIR ALI ,573,49,Female,392,General Checkup,Emergency,CITY CARE BRANCH,8,81142, February ,2024, discharged 
+ Anaya Mehta ,167,85,Female,265, Arthritis , Orthopedics ,City Care Branch,5,109549,NOVEMBER,10125,Discharged
+ Vivaan Singh ,469,3,Female,73, Arrhythmia ,Cardiology, West Medical Center ,25,94528, MAY ,2024,Discharged
+ Diya Patel ,653,87,Male,134,Arrhythmia,Cardiology,West Medical Center,10,86698,January,2025,Discharged
+ DIYA SINGH ,389,35,Female,371,Fever,GENERAL SURGERY,South Hospital,22,9215,July,2025,Discharged
+ MEERA VERMA ,52,80,FEMALE,231,Stroke, Neurology ,Central Clinic,24,178551, June ,2024, discharged 
+ Unknown ,260,61, Female ,322, Fatigue ,General Surgery,CITY CARE BRANCH,9,117185,,2025,Discharged
+ UNKNOWN ,550,16,Female,276,Fever, Pediatrics , East Clinic ,30,197906, July ,2025,Transferred
+ADITYA PATEL,41,80,Female,17,Fatigue, EMERGENCY , East Clinic ,5,-160377, January ,2025,Discharged
+ AARAV VERMA ,592,10,Male,328,Cancer Screening, Oncology ,City Care Branch,5,101592.5, February ,2025,Discharged
+Ishaan Yadav,86,35,Male,249,Fever,General Surgery,West Medical Center,13,,November,2025,Discharged
+,598,45,FEMALE,97, Arrhythmia , Cardiology ,City Care Branch,15,180373,August,2025,Discharged
+Riya Mehta,520,36,Male,138,Epilepsy, Neurology ,CENTRAL CLINIC,28,78643,AUGUST,2025,Discharged
+ ANAYA KHAN ,586,86,FEMALE,340,Migraine, Neurology ,North Hospital,33,80482,May,2025,Discharged
+Aditya Sharma,241,3,Male,245,Fever, General Surgery ,East Clinic,-3,101592.5, February ,2024,Discharged
+Riya Sharma,762,1, Female ,233,ASTHMA,,CENTRAL CLINIC,21,160798,January,10120,Discharged
+Kabir Verma,695,39,FEMALE,26,FEVER, General Surgery ,Central Clinic,25,156748,March,2025,Discharged
+DIYA VERMA,283,43,MALE,268,Fatigue, EMERGENCY , WEST MEDICAL CENTER ,11,5428,,2024,Discharged
+ RIYA KHAN ,825,33, Female ,-380, Hypertension ,Cardiology,East Clinic,14,132777, November ,2024,Discharged
+ MEERA SINGH ,376,83,MALE,208,Hypertension,Cardiology,City Care Branch,31,117159, July ,2024,Transferred
+Aarav Singh,-576,38,Female,226,Asthma,PEDIATRICS,EAST CLINIC,-26,44138,DECEMBER,2024,Discharged
+Kabir Singh,564,73,MALE,192,ARRHYTHMIA,CARDIOLOGY,North Hospital,39,84876,MAY,2024,Discharged
+SARA YADAV,718,, FEMALE ,-262,Cancer Screening, Oncology , South Hospital ,,101680,December,2024,Discharged
+ADITYA PATEL,772,52, Male ,102, Arrhythmia ,CARDIOLOGY,North Hospital,19,167459,January,2025,
+ ANAYA YADAV ,609,67,Male,192,Fever, General Surgery ,EAST CLINIC,18,178255,MARCH,2025,Discharged
+Vivaan Khan,827,66, Male ,-192,Flu,PEDIATRICS,CITY CARE BRANCH,21,174913,MARCH,2024, discharged 
+ VIVAAN VERMA ,722,24,,352, ARRHYTHMIA ,Cardiology, East Clinic ,378,10685,December,-2025,
+Ishaan Yadav,551,8,Female,323,GENERAL CHECKUP, EMERGENCY , EAST CLINIC ,19,100383,July,2024,Discharged
+Diya Ali,457,31, Female ,120, Epilepsy ,NEUROLOGY,East Clinic,2,18144,June,2025,Discharged
+Anaya Yadav,451,,Male,101,Leukemia,Oncology,City Care Branch,10,39915,June,2024,Discharged
+ SARA MEHTA ,798,16,Male,145,Leukemia,Oncology,South Hospital,6,129780, JANUARY ,2025,discharged
+ ISHAAN VERMA ,26,1,Female,74,FATIGUE,EMERGENCY, South Hospital ,3,82373,September,2025, discharged 
+Diya Mehta,185,34,Female,83,FATIGUE,General Surgery,East Clinic,11,40955,DECEMBER,2024,Deceased
+ Vivaan Joshi ,369,20,FEMALE,192,Cancer Screening, Oncology , Central Clinic ,28,94551,FEBRUARY,2025,
+Unknown,596,65,,320,Tumor, Oncology , East Clinic ,8,55151, May ,2025,
+ Kabir Sharma ,297,14,FEMALE,156,Epilepsy,Neurology,Central Clinic,8,186626, November ,2024,discharged
+MEERA VERMA,523,49,Male,-252,FEVER,Emergency,West Medical Center,11,82571,JUNE,2024,Deceased
+Sara Verma,163,87,MALE,192,Fever,Orthopedics, NORTH HOSPITAL ,8,36611, NOVEMBER ,-2025,Discharged
+ Anaya Verma ,476,70,Female,30, BACK PAIN ,Orthopedics,,18,87741,January,2024,Discharged
+ANAYA JOSHI,172,36,Male,66,FEVER,CARDIOLOGY, Central Clinic ,19,7129,April,2025,Discharged
+ Riya Singh ,338,16,MALE,96, General Checkup ,Emergency,South Hospital,12,165241,FEBRUARY,2024,
+ Vivaan Joshi ,636,31, FEMALE ,6,FLU,Pediatrics,Central Clinic,13,-101592.5, April ,2025,Discharged
+Meera Khan,3115,42,MALE,114,FLU,Pediatrics,South Hospital,12,19560,DECEMBER,2025,Discharged
+Aditya Verma,447,83, Male ,392,Fever,Pediatrics,WEST MEDICAL CENTER,7,14674,February,2025, discharged 
+Ishaan Verma,137,40,Male,343,General Checkup,Emergency,South Hospital,5,,,2024,discharged
+ Aditya Mehta ,587,42,MALE,257,,Emergency, East Clinic ,32,,August,2025,Discharged
+MEERA SHARMA,665,19,Male,192,Fever, General Surgery ,North Hospital,3,101592.5, November ,2024, discharged 
+Aditya Khan,486,23,Female,83, FATIGUE ,General Surgery,North Hospital,7,55536, June ,,Deceased
+Diya Patel,543,-2,Female,318, FEVER ,Emergency,,3,19829, August ,2025,Discharged
+DIYA GUPTA,198,,Female,128, Fracture ,Orthopedics, South Hospital ,3,23953,MAY,2025, discharged 
+Unknown,414,26,Male,167,General Checkup,Emergency, South Hospital ,4,27682, DECEMBER ,2025,Discharged
+ NULL ,606,, NULL ,240,  NULL  , NULL ,  NULL  ,4,68458, NULL ,2025,Discharged
+Anaya Sharma,299,65,MALE,80,TUMOR, Oncology ,North Hospital,2,186180,JUNE,2024,Transferred
+Kabir Gupta,591,54,MALE,273,Tumor,Oncology,South Hospital,12,, August ,-2025,Deceased
+Kabir Yadav,101,11, FEMALE ,45, MIGRAINE ,,City Care Branch,2,100878, June ,2025,Discharged
+ ADITYA JOSHI ,20,49,MALE,281,Fatigue,GENERAL SURGERY,City Care Branch,25,142470,December,2025,Discharged
+SARA MEHTA,162,13,Male,5,Cancer Screening, Oncology ,CENTRAL CLINIC,6,50777,January,2024,discharged
+SARA GUPTA,558,20,Male,-264, Fever ,Pediatrics,East Clinic,13,157519,,2025,Discharged
+ Kabir Verma ,256,57, Female ,391,Fracture,Orthopedics, EAST CLINIC ,19,69388, June ,2024,
+ Riya Khan ,4319,47,FEMALE,245,Asthma,Pediatrics,North Hospital,10,101592.5,SEPTEMBER,2025,Discharged
+ISHAAN SHARMA,265,60, FEMALE ,165,Stroke,Neurology,CENTRAL CLINIC,38,181961, September ,2024,Discharged
+Riya Yadav,746,1,Female,40,Fever,EMERGENCY, Central Clinic ,27,18011,MARCH,2025,discharged
+Sara Singh,207,23,Male,202,FATIGUE,GENERAL SURGERY, East Clinic ,12,185168, DECEMBER ,,Discharged
+ Kabir Khan ,439,30,FEMALE,141,Arthritis,Orthopedics,South Hospital,13,163508,August,2025,Discharged
+Riya Joshi,253,89, Male ,161, TUMOR ,Oncology,WEST MEDICAL CENTER,12,68108,AUGUST,2025,discharged
+ ISHAAN MEHTA ,593,,Female,373,General Checkup, EMERGENCY ,,18,37517,NOVEMBER,2024, discharged 
+ Vivaan Verma ,679,21,Male,241,Heart Disease,CARDIOLOGY,Central Clinic,8,105651,JANUARY,2025,Discharged
+ Aarav Singh ,516,5,Male,141, Back Pain ,ORTHOPEDICS,CITY CARE BRANCH,2,154335,February,2025,Discharged
+Riya Singh,40,69,MALE,45,Fracture,Orthopedics,City Care Branch,19,125575, May ,2025,Discharged
+Meera Sharma,468,40,,26,MIGRAINE,NEUROLOGY, East Clinic ,17,31441, JULY ,2025,transferred
+Riya Gupta,393,60,Female,3680,Epilepsy, Neurology ,South Hospital,4,115467,May,2024,Discharged
+Vivaan Patel,307,49,Female,339,General Checkup, General Surgery ,Central Clinic,5,165882,APRIL,2025,Discharged
+ANAYA VERMA,59,62,Male,270,Fever,NEUROLOGY, NORTH HOSPITAL ,8,-176833,September,2025,Discharged
+Meera Khan,318,59, Male ,329,Cancer Screening, Oncology ,Central Clinic,17,150532,January,2024,Discharged
+Kabir Singh,131,10,MALE,257,Fever,GENERAL SURGERY,North Hospital,40,15031,August,2025,Discharged
+Anaya Ali,740,17,Male,212,Leukemia,Oncology, CENTRAL CLINIC ,9,101592.5,January,2024,Discharged
+ NULL ,739,37, NULL ,10, NULL , NULL ,  NULL  ,6,79303, NULL ,2025,Discharged
+UNKNOWN,456,63, Female ,-174,GENERAL CHECKUP, Emergency , South Hospital ,8,137941,MAY,2024,Discharged
+ANAYA KHAN,345,76,Female,348,Flu, Pediatrics ,East Clinic,12,182024,October,2024,Transferred
+Anaya Khan,619,21, Female ,192,Leukemia,ONCOLOGY, North Hospital ,18,53679,AUGUST,2025,Discharged
+ NULL ,547,429, NULL ,128, NULL , NULL , NULL ,20,153648, NULL ,2024,Discharged
+ VIVAAN KHAN ,474,41, Male ,238,Fever,Pediatrics,CITY CARE BRANCH,39,92238, SEPTEMBER ,2024, discharged 
+Riya Yadav,458,42,Male,12, Epilepsy ,NEUROLOGY, City Care Branch ,22,21256,March,2025, discharged 
+Meera Sharma,287,52,Female,27,General Checkup,Emergency,EAST CLINIC,18,109742, AUGUST ,2025,Discharged
+Ishaan Khan,671,75,MALE,,FEVER,Emergency,West Medical Center,21,92728,JULY,2024,Discharged
+Aditya Yadav,274,63, FEMALE ,307, HEART DISEASE ,Cardiology,CITY CARE BRANCH,22,13430, June ,10120,Transferred
+Riya Verma,446,50,MALE,264,General Checkup,General Surgery, City Care Branch ,7,, November ,2025,Discharged
+  NULL  ,124,49, NULL ,278, NULL ,  NULL  , NULL ,24,52523, NULL ,2024,Discharged
+DIYA YADAV,750,22,Male,178,General Checkup, Emergency ,North Hospital,5,23585,June,2024,Discharged
+Vivaan Ali,605,49,Female,48, Migraine ,Neurology,WEST MEDICAL CENTER,13,171646,August,2025,TRANSFERRED
+Sara Gupta,382,76, Male ,4496,CANCER SCREENING,ONCOLOGY, EAST CLINIC ,4,121361,OCTOBER,2025,discharged
+ Riya Khan ,714,26,FEMALE,236,Leukemia, ONCOLOGY ,WEST MEDICAL CENTER,22,61715,JUNE,2025,Discharged
+Meera Mehta,279,7, Male ,288, GENERAL CHECKUP , Emergency ,CITY CARE BRANCH,3,98583, JANUARY ,-2025,Discharged
+Riya Ali,724,28,Female,255,Stroke,Neurology, East Clinic ,8,171253,January,2025,Transferred
+VIVAAN MEHTA,153,79, Female ,-182,Hypertension,,North Hospital,17,134356,JUNE,2025,Discharged
+ NULL ,763,79, NULL ,192,  NULL  , NULL , NULL ,14,142731, NULL ,,Discharged
+VIVAAN SHARMA,216,1,Female,288,Arthritis,Orthopedics,West Medical Center,9,167419,JULY,2025,Discharged
+ ANAYA KHAN ,643,-13,MALE,192,BACK PAIN,ORTHOPEDICS,Central Clinic,7,101592.5,JANUARY,2024,Discharged
+Vivaan Ali,349,75,MALE,111,Stroke,NEUROLOGY,West Medical Center,22,41717,,2025,discharged
+,640,84,Female,168, Hypertension ,Cardiology,Central Clinic,2,194084,JUNE,2025,Discharged
+ISHAAN JOSHI,431,90,Female,, Stroke ,NEUROLOGY,North Hospital,18,58833,January,2025,Discharged
+ Sara Yadav ,634,23, Male ,361, Stroke ,Neurology,South Hospital,15,24211,November,2025,Transferred
+Aditya Singh,-43,63,FEMALE,82,Cancer Screening,Oncology,East Clinic,17,27944,January,2025,Transferred
+SARA SINGH,5761,14, Male ,234,Migraine,Neurology,SOUTH HOSPITAL,7,193107, JUNE ,2025,discharged
+Diya Sharma,290,26,Female,74, ARTHRITIS , Orthopedics ,WEST MEDICAL CENTER,4,84377,July,2025,
+ NULL ,317,72, NULL ,239,  NULL  ,  NULL  , NULL ,2,118722, NULL ,2025,
+Meera Patel,507,12,MALE,192,FEVER, PEDIATRICS ,EAST CLINIC,7,77023, September ,2025, discharged 
+ ISHAAN ALI ,570,5, FEMALE ,34,Fracture, Orthopedics , Central Clinic ,13,112384,JANUARY,2025,Discharged
+Vivaan Ali,70,9,Female,357,Fatigue,Emergency, Central Clinic ,7,160259,September,2024,Discharged
+ Riya Gupta ,-277,67,Female,60,Heart Disease,Cardiology,CITY CARE BRANCH,9,146100,January,2025,Discharged
+ NULL ,704,38, NULL ,192, NULL , NULL ,  NULL  ,19,101592.5, NULL ,2025,Discharged
+AARAV SINGH,801,89,FEMALE,192, Arthritis ,Orthopedics, City Care Branch ,30,181283,June,2024,
+ Riya Gupta ,-781,19,Male,192,FATIGUE,Emergency,South Hospital,12,46402, October ,2025,
+ ISHAAN KHAN ,38,-47, Male ,91,Fatigue,General Surgery, EAST CLINIC ,26,,October,2025,Discharged
+Aditya Ali,3521,70,Male,315,Cancer Screening,Oncology, South Hospital ,2,89170,MAY,2025,transferred
+RIYA YADAV,-411,9,Male,344,Asthma, PEDIATRICS ,West Medical Center,35,8806,February,10125,Transferred
+Anaya Yadav,145,69, Female ,390, BACK PAIN , ORTHOPEDICS ,Central Clinic,24,27699, February ,2025, discharged 
+Meera Ali,809,7, FEMALE ,108, Fatigue ,General Surgery,WEST MEDICAL CENTER,,85648, August ,2024,Discharged
+Kabir Sharma,617,50, Female ,162,General Checkup,General Surgery,West Medical Center,12,187957,AUGUST,2025,Discharged
